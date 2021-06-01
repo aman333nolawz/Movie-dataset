@@ -1,0 +1,4234 @@
+{
+  "Airplane!": {
+    "title": "Airplane!",
+    "Directed by": [
+      "Jim Abrahams",
+      "David Zucker",
+      "Jerry Zucker"
+    ],
+    "Produced by": "Jon Davison",
+    "Screenplay by": [
+      "Jim Abrahams",
+      "David Zucker",
+      "Jerry Zucker"
+    ],
+    "Based on": [
+      "Flight into Danger by Arthur Hailey",
+      "Zero Hour! by Arthur Hailey Hall Bartlett John Champion"
+    ],
+    "Starring": [
+      "Robert Hays",
+      "Julie Hagerty"
+    ],
+    "Music by": "Elmer Bernstein",
+    "Cinematography": "Joseph Biroc",
+    "Edited by": "Patrick Kennedy",
+    "Production companies": "Paramount Pictures Howard W. Koch Productions",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "June 27, 1980 ( 1980-06-27 ) (Toronto and Buffalo )",
+      "July 2, 1980 ( 1980-07-02 ) (Wide)"
+    ],
+    "Running time": "87 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3.5 million",
+    "Box office": "$171 million"
+  },
+  "Alien Dead": {
+    "title": "Alien Dead",
+    "Directed by": "Fred Olen Ray",
+    "Produced by": [
+      "Fred Olen Ray",
+      "Chuck Sumner"
+    ],
+    "Screenplay by": [
+      "Martin Alan Nicholas",
+      "Fred Olan Ray"
+    ],
+    "Music by": [
+      "Franklin Sledge",
+      "Chuck Sumner"
+    ],
+    "Cinematography": "Fred Olen Ray",
+    "Edited by": "Mark Barrett",
+    "Production company": "Firebird Pictures Production",
+    "Running time": "87 minutes",
+    "Country": "United States"
+  },
+  "Alligator": {
+    "title": "Alligator",
+    "Directed by": "Lewis Teague",
+    "Produced by": "Brandon Chase",
+    "Screenplay by": "John Sayles",
+    "Story by": "John Sayles Frank Ray Perilli",
+    "Starring": "Robert Forster Robin Riker Michael V. Gazzo",
+    "Music by": "Craig Hundley",
+    "Cinematography": "Joseph Mangine",
+    "Edited by": "Larry Brock Ron Medico",
+    "Production company": "Group 1 Films",
+    "Distributed by": "Group 1 Films",
+    "Release date": [
+      "November 14, 1980 ( 1980-11-14 ) ( LA )",
+      "June 5, 1981 ( 1981-06-05 ) ( NYC )",
+      "[1] ( )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1,750,000 (estimated)",
+    "Box office": "$6,459,000"
+  },
+  "Altered States": {
+    "title": "Altered States",
+    "Directed by": "Ken Russell",
+    "Produced by": [
+      "Howard Gottfried",
+      "Daniel Melnick"
+    ],
+    "Screenplay by": "Sidney Aaron",
+    "Based on": "Altered States by Sidney Aaron",
+    "Starring": [
+      "William Hurt",
+      "Blair Brown",
+      "Bob Balaban"
+    ],
+    "Music by": "John Corigliano",
+    "Cinematography": "Jordan S. Cronenweth",
+    "Edited by": "Stuart Baird",
+    "Production company": "Warner Bros.",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "December 25, 1980 ( 1980-12-25 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$14.9 million",
+    "Box office": "$19.9 million"
+  },
+  "American Gigolo": {
+    "title": "American Gigolo",
+    "Directed by": "Paul Schrader",
+    "Produced by": "Jerry Bruckheimer",
+    "Written by": "Paul Schrader",
+    "Starring": [
+      "Richard Gere",
+      "Lauren Hutton"
+    ],
+    "Music by": "Giorgio Moroder and Blondie",
+    "Cinematography": "John Bailey",
+    "Edited by": "Richard Halsey",
+    "Production company": "Paramount Pictures",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "February 1, 1980 ( 1980-02-01 )"
+    ],
+    "Running time": "117 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5 million",
+    "Box office": "$52.7 million"
+  },
+  "Animalympics": {
+    "title": "Animalympics",
+    "Written by": "Steven Lisberger Michael Fremer",
+    "Story by": "Steven Lisberger Roger Allers John Norton",
+    "Directed by": "Steven Lisberger",
+    "Starring": "Billy Crystal Michael Fremer Gilda Radner Harry Shearer",
+    "Music by": "Graham Gouldman",
+    "Country of origin": "United States",
+    "Original language": "English"
+  },
+  "Any Which Way You Can": {
+    "title": "Any Which Way You Can",
+    "Directed by": "Buddy Van Horn",
+    "Produced by": "Robert Daley Fritz Manes",
+    "Written by": "Stanford Sherman Jeremy Joe Kronsberg (characters)",
+    "Starring": [
+      "Clint Eastwood",
+      "Sondra Locke",
+      "Geoffrey Lewis",
+      "William Smith",
+      "Harry Guardino",
+      "Ruth Gordon"
+    ],
+    "Cinematography": "David Worth",
+    "Edited by": [
+      "Ron Spang",
+      "Ferris Webster"
+    ],
+    "Production company": "The Malpaso Company",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "December 17, 1980 ( 1980-12-17 )"
+    ],
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$70.7 million (North America)"
+  },
+  "The Apple": {
+    "title": "The Apple",
+    "Directed by": "Menahem Golan",
+    "Produced by": [
+      "Yoram Globus",
+      "Menahem Golan"
+    ],
+    "Screenplay by": "Menahem Golan",
+    "Story by": [
+      "Coby Recht",
+      "Iris Recht"
+    ],
+    "Starring": [
+      "Catherine Mary Stewart",
+      "Allan Love",
+      "Grace Kennedy",
+      "George Gilmour",
+      "Joss Ackland",
+      "Vladek Sheybal",
+      "Ray Shell"
+    ],
+    "Music by": [
+      "George Clinton (Score)",
+      "Coby Recht",
+      "Iris Recht (Songs)"
+    ],
+    "Cinematography": "David Gurfinkel",
+    "Edited by": "Alain Jakubowicz",
+    "Production company": "NF Geria II Filmgesellschaft mbH",
+    "Distributed by": "The Cannon Group",
+    "Release date": [
+      "October 1980 ( 1980-10 ) ( Chicago )",
+      "November 21, 1980 ( 1980-11-21 ) (United States)"
+    ],
+    "Running time": "92 minutes",
+    "Countries": [
+      "United States",
+      "West Germany"
+    ],
+    "Language": "English",
+    "Budget": "$10 million"
+  },
+  "Atlantic City": {
+    "title": "Atlantic City",
+    "Directed by": "Louis Malle",
+    "Produced by": "Denis Héroux John Kemeny",
+    "Written by": "John Guare",
+    "Starring": "Burt Lancaster Susan Sarandon Kate Reid Robert Joy Hollis McLaren Michel Piccoli Al Waxman",
+    "Music by": "Michel Legrand",
+    "Cinematography": "Richard Ciupka",
+    "Edited by": "Suzanne Baron",
+    "Production companies": "Selta Films ICC Cine-Neighbor Famous Players Ltd. Canadian Film Development Corporation",
+    "Distributed by": "Paramount Pictures (US)",
+    "Release date": [
+      "September 3, 1980 ( 1980-09-03 ) (France)",
+      "December 19, 1980 ( 1980-12-19 ) (Canada)"
+    ],
+    "Running time": "104 minutes",
+    "Countries": "Canada France",
+    "Languages": "English French",
+    "Budget": "$7.2 million",
+    "Box office": "$12.7 million"
+  },
+  "The Baltimore Bullet": {
+    "title": "The Baltimore Bullet",
+    "Directed by": "Robert Ellis Miller",
+    "Produced by": "John Brascia",
+    "Written by": "John Brascia, Robert Vincent O'Neil",
+    "Starring": "James Coburn Omar Sharif Bruce Boxleitner Ronee Blakley",
+    "Music by": "Johnny Mandel",
+    "Cinematography": "James Crabe",
+    "Edited by": "Jerry Brady",
+    "Production company": "Filmfair Communications",
+    "Distributed by": "AVCO Embassy Pictures",
+    "Release date": [
+      "April 1, 1980 ( 1980-04-01 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Battle Beyond the Stars": {
+    "title": "Battle Beyond the Stars",
+    "Directed by": "Jimmy T. Murakami",
+    "Produced by": "Ed Carlin Roger Corman",
+    "Screenplay by": "John Sayles",
+    "Story by": "John Sayles Anne Dyer",
+    "Starring": [
+      "Richard Thomas",
+      "Robert Vaughn",
+      "George Peppard",
+      "John Saxon",
+      "Sybil Danning",
+      "Darlanne Fluegel"
+    ],
+    "Music by": "James Horner",
+    "Cinematography": "Daniel Lacambre",
+    "Edited by": "Allan Holzman Robert J. Kizer",
+    "Distributed by": "New World Pictures",
+    "Release date": [
+      "September 8, 1980 ( 1980-09-08 )"
+    ],
+    "Running time": "105 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2 million (estimated)",
+    "Box office": "$7.5 million"
+  },
+  "Below the Belt": {
+    "title": "Below the Belt"
+  },
+  "The Big Brawl": {
+    "title": "The Big Brawl",
+    "Directed by": "Robert Clouse",
+    "Produced by": "Raymond Chow Fred Weintraub",
+    "Written by": "Robert Clouse",
+    "Starring": [
+      "Jackie Chan",
+      "Kristine DeBell",
+      "Mako",
+      "Ron Max",
+      "David Sheiner",
+      "Rosalind Chao",
+      "Lenny Montana",
+      "Peter Marc",
+      "José Ferrer"
+    ],
+    "Music by": "Lalo Schifrin",
+    "Cinematography": "Robert C. Jessup",
+    "Edited by": "George Grenville",
+    "Distributed by": "Golden Harvest (Hong Kong) Warner Bros. (U.S.)",
+    "Release date": [
+      "10 September 1980 ( 1980-09-10 ) (United States)",
+      "16 October 1980 ( 1980-10-16 ) (Hong Kong)"
+    ],
+    "Running time": "95 minutes",
+    "Countries": "Hong Kong United States",
+    "Language": "English",
+    "Box office": "US$ 20.6 million ( est. )"
+  },
+  "The Big Red One": {
+    "title": "The Big Red One",
+    "Directed by": "Samuel Fuller",
+    "Produced by": "Gene Corman",
+    "Written by": "Samuel Fuller",
+    "Starring": [
+      "Lee Marvin",
+      "Mark Hamill",
+      "Robert Carradine",
+      "Bobby Di Cicco",
+      "Kelly Ward",
+      "Siegfried Rauch",
+      "Stéphane Audran"
+    ],
+    "Music by": "Dana Kaproff",
+    "Cinematography": "Adam Greenberg",
+    "Edited by": "Morton Tubor",
+    "Production company": "Lorimar",
+    "Distributed by": "United Artists",
+    "Release date": "July 18, 1980",
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million",
+    "Box office": "$7.2 million"
+  },
+  "The Black Marble": {
+    "title": "The Black Marble",
+    "Directed by": "Harold Becker",
+    "Produced by": "Frank Capra, Jr.",
+    "Written by": "Joseph Wambaugh",
+    "Starring": "Robert Foxworth Paula Prentiss Harry Dean Stanton Barbara Babcock John Hancock Raleigh Bond",
+    "Music by": "Maurice Jarre",
+    "Cinematography": "Owen Roizman",
+    "Edited by": "Maury Winetrobe",
+    "Production company": "The Black Marble Company",
+    "Distributed by": "AVCO Embassy Pictures",
+    "Release date": [
+      "March 7, 1980 ( 1980-03-07 )"
+    ],
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3 million",
+    "Box office": "$2.5 million"
+  },
+  "The Blue Lagoon": {
+    "title": "The Blue Lagoon",
+    "Directed by": "Randal Kleiser",
+    "Produced by": "Randal Kleiser",
+    "Screenplay by": "Douglas Day Stewart",
+    "Based on": "The Blue Lagoon by Henry De Vere Stacpoole",
+    "Starring": "Brooke Shields Christopher Atkins Leo McKern William Daniels",
+    "Music by": "Basil Poledouris",
+    "Cinematography": "Néstor Almendros",
+    "Edited by": "Robert Gordon",
+    "Color process": "Metrocolor",
+    "Production company": "Columbia Pictures",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "June 20, 1980 ( 1980-06-20 )"
+    ],
+    "Running time": "105 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4.5 million",
+    "Box office": "$58.8 million (North America)"
+  },
+  "The Blues Brothers": {
+    "title": "The Blues Brothers",
+    "Directed by": "John Landis",
+    "Produced by": "Robert K. Weiss",
+    "Written by": [
+      "Dan Aykroyd",
+      "John Landis"
+    ],
+    "Starring": [
+      "John Belushi",
+      "Dan Aykroyd",
+      "James Brown",
+      "Cab Calloway",
+      "Ray Charles",
+      "Carrie Fisher",
+      "Aretha Franklin",
+      "Henry Gibson"
+    ],
+    "Cinematography": "Stephen M. Katz",
+    "Edited by": "George Folsey Jr.",
+    "Production company": "Universal Pictures",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "June 20, 1980 ( 1980-06-20 )"
+    ],
+    "Running time": "133 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$27-30 million",
+    "Box office": "$115.2 million"
+  },
+  "Bon Voyage, Charlie Brown (and Don't Come Back!!)": {
+    "title": "Bon Voyage, Charlie Brown (and Don't Come Back!!)",
+    "Directed by": "Bill Melendez Phil Roman (co-director)",
+    "Produced by": [
+      "Bill Melendez",
+      "Lee Mendelson"
+    ],
+    "Written by": "Charles M. Schulz",
+    "Based on": "Peanuts by Charles M. Schulz",
+    "Starring": [
+      "Arrin Skelley",
+      "Daniel Anderson",
+      "Patricia Patts",
+      "Casey Carlson",
+      "Annalisa Bortolin",
+      "Laura Planting",
+      "Bill Melendez"
+    ],
+    "Music by": [
+      "Ed Bogas",
+      "Judy Munsen"
+    ],
+    "Edited by": [
+      "Roger Donley",
+      "Chuck McCann"
+    ],
+    "Production companies": [
+      "Bill Melendez Productions",
+      "Lee Mendelson Film Productions",
+      "United Feature Syndicate"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "May 30, 1980 ( 1980-05-30 )"
+    ],
+    "Running time": "76 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2 million"
+  },
+  "The Boogeyman": {
+    "title": "The Boogeyman",
+    "Directed by": "Ulli Lommel",
+    "Produced by": [
+      "Ulli Lommel",
+      "Gillian Gordon"
+    ],
+    "Written by": "Ulli Lommel",
+    "Starring": [
+      "Suzanna Love",
+      "John Carradine",
+      "Ron James",
+      "Nicholas Love"
+    ],
+    "Music by": "Tim Krog",
+    "Cinematography": "Jochen Breitenstein",
+    "Edited by": "Terrell Tannen",
+    "Distributed by": "Jerry Gross Organization",
+    "Release date": [
+      "November 14, 1980 ( 1980-11-14 )"
+    ],
+    "Running time": "82 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$350,000",
+    "Box office": "$25 million"
+  },
+  "Borderline": {
+    "title": "Borderline",
+    "Produced by": "James Nelson",
+    "Written by": "Jerrold Freedman Steve Kline",
+    "Starring": "Charles Bronson Ed Harris Bruno Kirby",
+    "Music by": "Gil Melle",
+    "Cinematography": "Tak Fujimoto",
+    "Edited by": "John F. Link",
+    "Production companies": "ITC Entertainment Marble Arch Productions",
+    "Distributed by": "Associated Film Distribution",
+    "Release date": [
+      "December 19, 1980 ( 1980-12-19 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5.8 million"
+  },
+  "Bronco Billy": {
+    "title": "Bronco Billy",
+    "Directed by": "Clint Eastwood",
+    "Produced by": [
+      "Dennis Hackin",
+      "Neil Dobrofsky"
+    ],
+    "Written by": "Dennis Hackin",
+    "Starring": [
+      "Clint Eastwood",
+      "Sondra Locke"
+    ],
+    "Music by": "Snuff Garrett",
+    "Cinematography": "David Worth",
+    "Edited by": [
+      "Joel Cox",
+      "Ferris Webster"
+    ],
+    "Distributed by": "Warner Bros.",
+    "Release date": "June 11, 1980 ( 1980-06-11 )",
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6.5 million",
+    "Box office": "$24,265,583 (domestic)"
+  },
+  "Brubaker": {
+    "title": "Brubaker",
+    "Directed by": "Stuart Rosenberg",
+    "Produced by": "Ron Silverman",
+    "Screenplay by": "W. D. Richter",
+    "Story by": [
+      "W. D. Richter",
+      "Arthur Ross"
+    ],
+    "Based on": [
+      "Tom Murton",
+      "Joe Hyams"
+    ],
+    "Starring": [
+      "Robert Redford",
+      "Yaphet Kotto",
+      "Jane Alexander",
+      "Murray Hamilton",
+      "David Keith",
+      "Tim McIntire"
+    ],
+    "Music by": "Lalo Schifrin",
+    "Cinematography": "Bruno Nuytten",
+    "Edited by": "Robert Brown",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "June 20, 1980 ( 1980-06-20 )"
+    ],
+    "Running time": "132 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$9 million or $13 million",
+    "Box office": "$37,121,708"
+  },
+  "Caboblanco": {
+    "title": "Caboblanco",
+    "Directed by": "J. Lee Thompson",
+    "Produced by": "Lance Hool",
+    "Written by": "Morton S. Fine Milton S. Gelman",
+    "Starring": "Charles Bronson Jason Robards Dominique Sanda Fernando Rey Denny Miller",
+    "Music by": "Jerry Goldsmith",
+    "Cinematography": "Álex Phillips Jr.",
+    "Release date": [
+      "1980 ( 1980 ) (U.S.)",
+      "1981 ( 1981 ) (UK)"
+    ],
+    "Running time": "87 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million"
+  },
+  "Caddyshack": {
+    "title": "Caddyshack",
+    "Directed by": "Harold Ramis",
+    "Produced by": "Douglas Kenney",
+    "Written by": [
+      "Douglas Kenney",
+      "Harold Ramis",
+      "Brian Doyle-Murray"
+    ],
+    "Starring": [
+      "Chevy Chase",
+      "Rodney Dangerfield",
+      "Ted Knight",
+      "Michael O'Keefe",
+      "Bill Murray"
+    ],
+    "Music by": "Johnny Mandel",
+    "Cinematography": "Stevan Larner",
+    "Edited by": "William C. Carruth",
+    "Production company": "Orion Pictures",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "July 25, 1980 ( 1980-07-25 )"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4.8 million",
+    "Box office": "$60 million"
+  },
+  "Can't Stop the Music": {
+    "title": "Can't Stop the Music",
+    "Directed by": "Nancy Walker",
+    "Produced by": [
+      "Allan Carr",
+      "Henri Belolo",
+      "Jacques Morali"
+    ],
+    "Written by": [
+      "Allan Carr",
+      "Bronté Woodard"
+    ],
+    "Starring": [
+      "Village People",
+      "Valerie Perrine",
+      "Caitlyn Jenner",
+      "Steve Guttenberg",
+      "Paul Sand",
+      "Tammy Grimes",
+      "June Havoc",
+      "Barbara Rush",
+      "Altovise Davis",
+      "Marilyn Sokol",
+      "The Ritchie Family"
+    ],
+    "Music by": "Jacques Morali",
+    "Cinematography": "Bill Butler",
+    "Edited by": "John F. Burnett",
+    "Color process": "Metrocolor",
+    "Production company": "EMI Films",
+    "Distributed by": "Associated Film Distribution",
+    "Release date": [
+      "June 20, 1980 ( 1980-06-20 )"
+    ],
+    "Running time": "124 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$20 million or $13.5 million",
+    "Box office": "$2 million"
+  },
+  "Cardiac Arrest": {
+    "title": "Cardiac Arrest",
+    "Directed by": "Murray Mintz",
+    "Produced by": "Richard Helzberg",
+    "Written by": "Murray Mintz",
+    "Starring": [
+      "Max Gail",
+      "Garry Goodrow",
+      "Mike Paul Chan",
+      "Ray Reinhardt",
+      "Robert Behling",
+      "Susan O'Connell",
+      "Fred Ward"
+    ],
+    "Music by": "Andrew Kulberg",
+    "Cinematography": "Jon Else",
+    "Edited by": "John Nutt",
+    "Release date": "January 18, 1980",
+    "Running time": "85 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Carny": {
+    "title": "Carny",
+    "Directed by": "Robert Kaylor",
+    "Produced by": "Robbie Robertson",
+    "Written by": "Phoebe Kaylor (story) Robert Kaylor (story) Robbie Robertson (story) Thomas Baum",
+    "Starring": "Gary Busey Jodie Foster Robbie Robertson",
+    "Music by": "Alex North",
+    "Cinematography": "Harry Stradling Jr.",
+    "Edited by": "Stuart H. Pappé",
+    "Production company": "Lorimar Film Entertainment",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "June 13, 1980 ( 1980-06-13 )"
+    ],
+    "Running time": "107 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6 million",
+    "Box office": "$1,817,720"
+  },
+  "A Change of Seasons": {
+    "title": "A Change of Seasons",
+    "Directed by": "Richard Lang",
+    "Produced by": "Martin Ransohoff",
+    "Written by": "Erich Segal Martin Ranshoff Ronni Kern Fred Segal",
+    "Starring": "Shirley MacLaine Anthony Hopkins Bo Derek Michael Brandon Mary Beth Hurt K Callan",
+    "Music by": "Henry Mancini",
+    "Cinematography": "Philip H. Lathrop",
+    "Edited by": "Don Zimmerman",
+    "Production companies": "Film Finance Group Polyc International BV 20th Century Fox",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "December 1, 1980 ( 1980-12-01 )"
+    ],
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6 million",
+    "Box office": "$7.2 million (North America)"
+  },
+  "The Changeling": {
+    "title": "The Changeling",
+    "Directed by": "Peter Medak",
+    "Produced by": [
+      "Joel B. Michaels",
+      "Garth H. Drabinsky",
+      "Mario Kassar"
+    ],
+    "Screenplay by": "William Gray Diana Maddox",
+    "Story by": "Russell Hunter",
+    "Starring": [
+      "George C. Scott",
+      "Trish Van Devere",
+      "Melvyn Douglas",
+      "John Colicos",
+      "Jean Marsh",
+      "Helen Burns",
+      "Madeleine Sherwood"
+    ],
+    "Music by": "Rick Wilkins",
+    "Cinematography": "John Coquillon",
+    "Edited by": "Lilla Pedersen",
+    "Production company": "Chessman Park Productions",
+    "Distributed by": "Pan-Canadian Film Distributors",
+    "Release date": [
+      "March 28, 1980 ( 1980-03-28 )"
+    ],
+    "Running time": "107 minutes",
+    "Country": "Canada",
+    "Language": "English",
+    "Budget": "$6.6 million",
+    "Box office": "$12 million"
+  },
+  "Cheech and Chong's Next Movie": {
+    "title": "Cheech and Chong's Next Movie",
+    "Directed by": "Tommy Chong",
+    "Produced by": "Howard Brown",
+    "Written by": "Tommy Chong Cheech Marin",
+    "Starring": "Cheech Marin Tommy Chong Evelyn Guerrero Edie McClurg Paul Reubens",
+    "Music by": "Mark Davis",
+    "Cinematography": "King Baggot Nick McLean",
+    "Edited by": "Thomas K. Avildsen Scott Conrad",
+    "Color process": "Technicolor",
+    "Production company": "Universal Pictures",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "July 18, 1980 ( 1980-07-18 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$41.7 million"
+  },
+  "The Children": {
+    "title": "The Children",
+    "Directed by": "Max Kalmanowicz",
+    "Produced by": "Max Kalmanowicz Carlton J. Albright",
+    "Written by": "Carlton J. Albright Edward Terry",
+    "Starring": "Martin Shakar Gil Rogers Gale Garnett",
+    "Music by": "Harry Manfredini",
+    "Cinematography": "Barry Abrams",
+    "Distributed by": "World-Northal (original) Troma Entertainment (current)",
+    "Release date": [
+      "June 13, 1980 ( 1980-06-13 )"
+    ],
+    "Running time": "93 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Christmas Evil": {
+    "title": "Christmas Evil",
+    "Directed by": "Lewis Jackson",
+    "Produced by": "Burt Kleiner Pete Kameron",
+    "Written by": "Lewis Jackson",
+    "Starring": "Brandon Maggart Jeffrey DeMunn Dianne Hull Andy Fenwick",
+    "Music by": "Joel Harris Julia Heyward Don Christensen",
+    "Cinematography": "Ricardo Aronovich",
+    "Edited by": "Linda Leeds Corky O'Hara",
+    "Production company": "Edward R. Pressman Film",
+    "Distributed by": "Pan American Pictures",
+    "Release date": [
+      "November 7, 1980 ( 1980-11-07 ) ( Pittsburgh )"
+    ],
+    "Running time": [
+      "92 minutes",
+      "100 minutes (uncut)"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$850,000"
+  },
+  "Circle of Two": {
+    "title": "Circle of Two",
+    "Directed by": "Jules Dassin",
+    "Produced by": "Henk Van der Kolk",
+    "Written by": "Thomas Hedley from the novel Lessons in Love by Marie Terese Baird",
+    "Starring": "Richard Burton Tatum O'Neal Michael Wincott Kate Reid",
+    "Music by": "Bernard Hoffer",
+    "Cinematography": "Lazlo George",
+    "Edited by": "David Nicholson",
+    "Distributed by": "United Artists",
+    "Release date": "1981",
+    "Running time": "106 min.",
+    "Language": "English"
+  },
+  "Coal Miner's Daughter": {
+    "title": "Coal Miner's Daughter",
+    "Directed by": "Michael Apted",
+    "Produced by": "Bernard Schwartz",
+    "Screenplay by": "Tom Rickman",
+    "Based on": "Coal Miner's Daughter by Loretta Lynn & George Vecsey",
+    "Starring": "Sissy Spacek Tommy Lee Jones Beverly D'Angelo Levon Helm",
+    "Music by": "Owen Bradley",
+    "Cinematography": "Ralf D. Bode",
+    "Edited by": "Arthur Schmidt",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "March 7, 1980 ( 1980-03-07 )"
+    ],
+    "Running time": "124 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$15 million (equivalent to $47.11 million in 2020)",
+    "Box office": "$67.18 million (equivalent to $211.01 million in 2020)"
+  },
+  "Coast to Coast": {
+    "title": "Coast to Coast",
+    "Directed by": "Joseph Sargent",
+    "Produced by": "Jon Avnet Steve Tisch",
+    "Written by": "Stanley Weiser",
+    "Starring": "Dyan Cannon Robert Blake",
+    "Music by": "Charles Bernstein",
+    "Cinematography": "Mario Tosi",
+    "Edited by": "Patrick Kennedy George Jay Nicholson",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "95 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$4.5 million"
+  },
+  "The Competition": {
+    "title": "The Competition",
+    "Directed by": "Joel Oliansky",
+    "Produced by": "William Sackheim",
+    "Written by": "Joel Oliansky",
+    "Story by": "Joel Oliansky William Sackheim",
+    "Starring": "Richard Dreyfuss Amy Irving Lee Remick Sam Wanamaker",
+    "Music by": "Lalo Schifrin",
+    "Cinematography": "Richard H. Kline",
+    "Edited by": "David Blewitt",
+    "Color process": "Metrocolor",
+    "Production company": "Rastar Films",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "December 3, 1980 ( 1980-12-03 )"
+    ],
+    "Running time": "126 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$14.3 million"
+  },
+  "Cruising": {
+    "title": "Cruising",
+    "Directed by": "William Friedkin",
+    "Produced by": "Jerry Weintraub",
+    "Screenplay by": "William Friedkin",
+    "Based on": "Cruising by Gerald Walker",
+    "Starring": [
+      "Al Pacino",
+      "Paul Sorvino",
+      "Karen Allen"
+    ],
+    "Music by": "Jack Nitzsche",
+    "Cinematography": "James Contner",
+    "Edited by": "Bud Smith",
+    "Production companies": [
+      "CiP-Europaische Treuhand",
+      "Lorimar Film Entertainment"
+    ],
+    "Distributed by": "United Artists",
+    "Release date": [
+      "February 8, 1980 ( 1980-02-08 ) (United States)",
+      "August 25, 1980 ( 1980-08-25 ) (West Germany)"
+    ],
+    "Running time": "102 minutes",
+    "Countries": [
+      "United States",
+      "West Germany"
+    ],
+    "Language": "English",
+    "Budget": "$11 million",
+    "Box office": "$19.8 million"
+  },
+  "Death Watch": {
+    "title": "Death Watch",
+    "Directed by": "Bertrand Tavernier",
+    "Produced by": [
+      "Gabriel Boustiani",
+      "Janine Rubeiz",
+      "Bertrand Tavernier"
+    ],
+    "Screenplay by": [
+      "David Rayfiel",
+      "Bertrand Tavernier"
+    ],
+    "Based on": "The Unsleeping Eye by David G. Compton",
+    "Starring": [
+      "Romy Schneider",
+      "Harvey Keitel",
+      "Max von Sydow",
+      "Harry Dean Stanton"
+    ],
+    "Music by": "Antoine Duhamel",
+    "Cinematography": "Pierre-Wiliam Glenn",
+    "Edited by": "Michael Ellis Armand Psenny",
+    "Distributed by": "SELTA Films Little Bear Sara Films Gaumont Antenne 2 TV 13 Munich Quartet Films ( USA )",
+    "Release date": [
+      "1980 ( 1980 )"
+    ],
+    "Running time": "128 minutes",
+    "Countries": "France West Germany",
+    "Languages": "English French",
+    "Box office": "$7.6 million"
+  },
+  "Defiance": {
+    "title": "Defiance",
+    "Directed by": "John Flynn",
+    "Produced by": "Jerry Bruckheimer William S. Gilmore Executive producer Robert J. Wunsch",
+    "Written by": "Thomas Michael Donnelly Mark Tulin",
+    "Starring": "Jan-Michael Vincent Theresa Saldana Art Carney",
+    "Music by": "Dominic Frontiere Gerard McMahon",
+    "Cinematography": "Ric Waite",
+    "Edited by": "David Finfer",
+    "Distributed by": "American International Pictures",
+    "Release date": [
+      "March 14, 1980 ( 1980-03-14 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Delusion": {
+    "title": "Delusion",
+    "Directed by": "Alan Beattie",
+    "Produced by": "John Cofrin Alan Beattie Peter Shanaberg",
+    "Written by": "Alan Beattie Jack Viertel",
+    "Starring": "Patricia Pearcy Joseph Cotten John Dukakis David Hayward Alice Nunn",
+    "Music by": "Don Peake",
+    "Cinematography": "Stephen Posey",
+    "Edited by": "Robert Leighton",
+    "Distributed by": "New American Films International Picture Show",
+    "Release date": [
+      "March 17, 1980 ( 1980-03-17 )"
+    ],
+    "Running time": "82 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Die Laughing": {
+    "title": "Die Laughing",
+    "Directed by": "Jeff Werner",
+    "Produced by": "Jon Peters Robby Benson Mark Canton",
+    "Screenplay by": "Jerry Segal Robby Benson Scott Parker",
+    "Story by": "Scott Parker",
+    "Starring": "Robby Benson Linda Grovener Charles Durning Elsa Lanchester Bud Cort Rita Taggart",
+    "Music by": "Robby Benson (original songs) Jerry Segal (lyrics) Craig Safan (scoring)",
+    "Cinematography": "David Myers",
+    "Edited by": "Neil Travis",
+    "Production company": "Orion Pictures",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "May 23, 1980 ( 1980-05-23 )"
+    ],
+    "Running time": "108 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$4,000,000"
+  },
+  "Divine Madness": {
+    "title": "Divine Madness",
+    "Directed by": "Michael Ritchie",
+    "Produced by": "Michael Ritchie",
+    "Written by": "Jerry Blatt Bette Midler Bruce Vilanch",
+    "Starring": "Bette Midler",
+    "Music by": "Tom Jans",
+    "Cinematography": "William A. Fraker",
+    "Production company": "The Ladd Company",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "September 26, 1980 ( 1980-09-26 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$5,318,098"
+  },
+  "The Dogs of War": {
+    "title": "The Dogs of War",
+    "Directed by": "John Irvin",
+    "Produced by": "Larry DeWaay Norman Jewison Patrick J. Palmer",
+    "Screenplay by": "Gary DeVore George Malko Michael Cimino (uncredited)",
+    "Based on": "The Dogs of War by Frederick Forsyth",
+    "Starring": "Christopher Walken Tom Berenger Colin Blakely",
+    "Music by": "Geoffrey Burgon",
+    "Cinematography": "Jack Cardiff",
+    "Edited by": "Antony Gibbs",
+    "Distributed by": "United Artists",
+    "Release date": "17 December 1980",
+    "Running time": "102 minutes",
+    "Countries": "United States United Kingdom",
+    "Language": "English",
+    "Budget": "$8 million",
+    "Box office": "$5.4 million"
+  },
+  "Don't Answer the Phone!": {
+    "title": "Don't Answer the Phone!",
+    "Directed by": "Robert Hammer",
+    "Produced by": "Michael D. Castle Robert Hammer",
+    "Written by": "Michael D. Castle Robert Hammer",
+    "Starring": "James Westmoreland Denise Galik Nicholas Worth",
+    "Music by": "Byron Allred",
+    "Cinematography": "James L. Carter",
+    "Edited by": "Joe Fineman",
+    "Production company": "Scorpion",
+    "Distributed by": "Crown International Pictures",
+    "Release date": [
+      "February 29, 1980 ( 1980-02-29 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Don't Go in the Woods... Alone!": {
+    "title": "Don't Go in the Woods... Alone!",
+    "Directed by": "James Bryan",
+    "Produced by": "James Bryan Suzette Gomez Roberto Gomez",
+    "Screenplay by": "Garth Eliassen",
+    "Story by": "Garth Eliassen",
+    "Starring": [
+      "Jack McClelland",
+      "Mary Gail Artz",
+      "James P. Hayden",
+      "Angie Brown"
+    ],
+    "Music by": "H. Kingsley Thurber",
+    "Cinematography": "Hank Zinman",
+    "Production company": "JBF",
+    "Distributed by": "Seymour Borde & Associates",
+    "Release date": [
+      "November 20, 1981 ( 1981-11-20 )"
+    ],
+    "Running time": "82 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$150,000"
+  },
+  "Double Negative": {
+    "title": "Double Negative"
+  },
+  "Dressed to Kill": {
+    "title": "Dressed to Kill",
+    "Directed by": "Brian De Palma",
+    "Produced by": "George Litto",
+    "Written by": "Brian De Palma",
+    "Starring": [
+      "Michael Caine",
+      "Angie Dickinson",
+      "Nancy Allen"
+    ],
+    "Music by": "Pino Donaggio",
+    "Cinematography": "Ralf D. Bode",
+    "Edited by": "Gerald B. Greenberg",
+    "Production companies": [
+      "Cinema 77",
+      "Film Group"
+    ],
+    "Distributed by": "Filmways Pictures",
+    "Release date": [
+      "July 25, 1980 ( 1980-07-25 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6.5 million",
+    "Box office": "$31.9 million"
+  },
+  "The Earthling": {
+    "title": "The Earthling",
+    "Directed by": "Peter Collinson",
+    "Produced by": "Samuel Z. Arkoff Elliot Schick John Strong",
+    "Written by": "Lanny Cotler",
+    "Starring": "William Holden Ricky Schroder",
+    "Music by": "Dick DeBenedictis Bruce Smeaton",
+    "Cinematography": "Donald McAlpine",
+    "Edited by": "Nicholas Beauman",
+    "Distributed by": "Filmways Pictures",
+    "Release date": "24 July 1980",
+    "Running time": "97 minutes",
+    "Countries": "United States Australia",
+    "Language": "English",
+    "Budget": "$4.5 million",
+    "Box office": "A$72,000 (Australia)"
+  },
+  "The Elephant Man": {
+    "title": "The Elephant Man",
+    "Directed by": "David Lynch",
+    "Produced by": "Jonathan Sanger",
+    "Screenplay by": [
+      "Christopher De Vore",
+      "Eric Bergren",
+      "David Lynch"
+    ],
+    "Based on": [
+      "The Elephant Man and Other Reminiscences by Frederick Treves",
+      "The Elephant Man: A Study in Human Dignity by Ashley Montagu"
+    ],
+    "Starring": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft",
+      "John Gielgud",
+      "Wendy Hiller"
+    ],
+    "Music by": "John Morris",
+    "Cinematography": "Freddie Francis",
+    "Edited by": "Anne V. Coates",
+    "Production company": "Brooksfilms",
+    "Distributed by": [
+      "Columbia – EMI – Warner Distributors (United Kingdom)",
+      "Paramount Pictures (United States)"
+    ],
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 ) (New York City )",
+      "October 10, 1980 ( 1980-10-10 ) (US)"
+    ],
+    "Running time": "124 minutes",
+    "Countries": "United Kingdom United States",
+    "Language": "English",
+    "Budget": "$5 million",
+    "Box office": "$26 million (North America)"
+  },
+  "The Exterminator": {
+    "title": "The Exterminator",
+    "Directed by": "James Glickenhaus",
+    "Produced by": "Mark Buntzman",
+    "Written by": "James Glickenhaus",
+    "Starring": "Robert Ginty Samantha Eggar Christopher George Steve James",
+    "Music by": "Joe Renzetti",
+    "Cinematography": "Robert M. Baldwin",
+    "Edited by": "Corky O'Hara",
+    "Production company": "Interstar Pictures",
+    "Distributed by": "Amsell Entertainment AVCO Embassy Pictures Shapiro-Glickenhaus Entertainment",
+    "Release date": [
+      "September 10, 1980 ( 1980-09-10 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2 million",
+    "Box office": "$35 million"
+  },
+  "Fade to Black": {
+    "title": "Fade to Black",
+    "Directed by": "Vernon Zimmerman",
+    "Produced by": "George G. Braunstein Ron Hamady",
+    "Written by": "Vernon Zimmerman",
+    "Starring": [
+      "Dennis Christopher",
+      "Norman Burton",
+      "Morgan Paull",
+      "Gwynne Gilford",
+      "Eve Brent",
+      "James Luisi",
+      "Linda Kerridge"
+    ],
+    "Music by": "Craig Safan",
+    "Cinematography": "Álex Phillips Jr.",
+    "Edited by": "James Mitchell Barbara Pokras",
+    "Production company": "Compass International",
+    "Distributed by": "Compass International American Cinema Releasing",
+    "Release date": [
+      "October 17, 1980 ( 1980-10-17 )"
+    ],
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.8 million",
+    "Box office": "$15 million"
+  },
+  "Fame": {
+    "title": "Fame",
+    "Directed by": "Alan Parker",
+    "Produced by": [
+      "David De Silva",
+      "Alan Marshall"
+    ],
+    "Written by": "Christopher Gore",
+    "Starring": [
+      "Eddie Barth",
+      "Irene Cara",
+      "Lee Curreri",
+      "Laura Dean",
+      "Antonia Franceschi",
+      "Boyd Gaines",
+      "Albert Hague",
+      "Tresa Hughes",
+      "Steve Inwood",
+      "Paul McCrane",
+      "Anne Meara",
+      "Joanna Merlin",
+      "Barry Miller",
+      "Jim Moody",
+      "Gene Anthony Ray",
+      "Maureen Teefy"
+    ],
+    "Music by": "Michael Gore",
+    "Cinematography": "Michael Seresin",
+    "Edited by": "Gerry Hambling",
+    "Production company": "Metro-Goldwyn-Mayer",
+    "Distributed by": "United Artists [nb 1] (United States/Canada) Cinema International Corporation (International)",
+    "Release date": [
+      "May 12, 1980 ( 1980-05-12 ) (New York City)",
+      "May 16, 1980 ( 1980-05-16 ) (United States)"
+    ],
+    "Running time": "133 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$8.5 million",
+    "Box office": "$42 million"
+  },
+  "Fatso": {
+    "title": "Fatso",
+    "Directed by": "Anne Bancroft",
+    "Produced by": "Stuart Cornfield",
+    "Written by": "Anne Bancroft",
+    "Starring": "Candice Azzara Anne Bancroft Ron Carey Dom DeLuise",
+    "Music by": "Joe Renzetti",
+    "Cinematography": "Brianne Murphy",
+    "Edited by": "Glenn Farr",
+    "Production company": "Brooksfilms",
+    "Distributed by": "20th Century Fox",
+    "Release date": "February 1, 1980 ( 1980-02-01 )",
+    "Running time": "93 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$7,653,061"
+  },
+  "The Fiendish Plot of Dr. Fu Manchu": {
+    "title": "The Fiendish Plot of Dr. Fu Manchu",
+    "Directed by": "Piers Haggard",
+    "Produced by": "Zev Braun Leland Nolan",
+    "Written by": "Rudy Dochtermann Jim Moloney Peter Sellers",
+    "Starring": "Peter Sellers Helen Mirren David Tomlinson Sid Caesar John Le Mesurier",
+    "Music by": "Marc Wilkinson",
+    "Cinematography": "Jean Tournier",
+    "Edited by": "Claudine Bouché Russell Lloyd",
+    "Production companies": "Orion Pictures Braun Entertainment Group Playboy Productions",
+    "Distributed by": "Warner Bros. (through Columbia - EMI - Warner Distributors in the United Kingdom)",
+    "Release date": [
+      "8 August 1980 ( 1980-08-08 )"
+    ],
+    "Running time": "101 minutes",
+    "Countries": "United Kingdom United States",
+    "Language": "English",
+    "Box office": "$10,697,276"
+  },
+  "The Final Countdown": {
+    "title": "The Final Countdown",
+    "Directed by": "Don Taylor",
+    "Produced by": [
+      "Peter Vincent Douglas",
+      "Lloyd Kaufman"
+    ],
+    "Screenplay by": [
+      "David Ambrose",
+      "Gerry Davis",
+      "Thomas Hunter",
+      "Peter Powell"
+    ],
+    "Story by": [
+      "Thomas Hunter",
+      "Peter Powell",
+      "David Ambrose"
+    ],
+    "Starring": [
+      "Kirk Douglas",
+      "Martin Sheen",
+      "Katharine Ross",
+      "James Farentino",
+      "Ron O'Neal",
+      "Charles Durning"
+    ],
+    "Music by": "John Scott",
+    "Cinematography": "Victor J. Kemper",
+    "Edited by": "Robert K. Lambert",
+    "Production company": "The Bryna Company",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "August 1, 1980 ( 1980-08-01 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Languages": "English Japanese",
+    "Budget": "$12.5 million",
+    "Box office": "$16.6 million"
+  },
+  "The First Deadly Sin": {
+    "title": "The First Deadly Sin",
+    "Directed by": "Brian G. Hutton",
+    "Produced by": "Frank Sinatra Elliott Kastner George Pappas Mark Shanker",
+    "Screenplay by": "Mann Rubin",
+    "Based on": "The First Deadly Sin by Lawrence Sanders",
+    "Starring": [
+      "Frank Sinatra",
+      "Faye Dunaway",
+      "James Whitmore",
+      "David Dukes",
+      "Brenda Vaccaro",
+      "Martin Gabel",
+      "Anthony Zerbe"
+    ],
+    "Music by": "Gordon Jenkins",
+    "Cinematography": "Jack Priestley",
+    "Distributed by": "Filmways Pictures",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "112 min.",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "First Family": {
+    "title": "First Family",
+    "Directed by": "Buck Henry",
+    "Produced by": "Daniel Melnick",
+    "Written by": "Buck Henry",
+    "Starring": "Bob Newhart Madeline Kahn Gilda Radner Richard Benjamin Bob Dishy Harvey Korman Fred Willard Rip Torn Austin Pendleton",
+    "Music by": "Ralph Burns",
+    "Cinematography": "Fred J. Koenekamp",
+    "Edited by": "Stu Linder Susan Martin",
+    "Production company": "F.F. Associates",
+    "Distributed by": "Warner Bros.",
+    "Release date": "December 25, 1980",
+    "Running time": "100 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$15,198,912"
+  },
+  "Flash Gordon (film)": {
+    "title": "Flash Gordon (film)",
+    "Directed by": "Mike Hodges",
+    "Produced by": "Dino De Laurentiis",
+    "Screenplay by": "Lorenzo Semple Jr.",
+    "Adaptation by": [
+      "Michael Allin"
+    ]
+  },
+  "The Fog": {
+    "title": "The Fog",
+    "Directed by": "John Carpenter",
+    "Produced by": "Debra Hill",
+    "Written by": "John Carpenter Debra Hill",
+    "Starring": "Adrienne Barbeau Jamie Lee Curtis John Houseman Janet Leigh Hal Holbrook",
+    "Music by": "John Carpenter",
+    "Cinematography": "Dean Cundey",
+    "Edited by": "Charles Bornstein Tommy Lee Wallace",
+    "Production company": "Debra Hill Productions",
+    "Distributed by": "AVCO Embassy Pictures",
+    "Release date": [
+      "February 1, 1980 ( 1980-02-01 )"
+    ],
+    "Running time": "90 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.1 million",
+    "Box office": "$21.3 million (domestic)"
+  },
+  "Foolin' Around": {
+    "title": "Foolin' Around",
+    "Directed by": "Richard T. Heffron",
+    "Produced by": "Arnold Kopelson",
+    "Written by": "Michael Kane David Swift",
+    "Starring": "Gary Busey Annette O'Toole Eddie Albert Tony Randall Cloris Leachman John Calvin",
+    "Music by": "Charles Bernstein",
+    "Cinematography": "Philip H. Lathrop",
+    "Edited by": "Peter Zinner",
+    "Production company": "GCC Productions",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "October 17, 1980 ( 1980-10-17 )"
+    ],
+    "Running time": "111 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "The Formula": {
+    "title": "The Formula",
+    "Directed by": "John G. Avildsen",
+    "Produced by": "Steve Shagan",
+    "Screenplay by": "Steve Shagan",
+    "Based on": "The Formula by Steve Shagan",
+    "Starring": [
+      "Marlon Brando",
+      "George C. Scott",
+      "Marthe Keller",
+      "John Gielgud",
+      "G. D. Spradlin",
+      "Beatrice Straight"
+    ],
+    "Music by": "Bill Conti",
+    "Cinematography": "James Crabe",
+    "Edited by": "John Carter",
+    "Production companies": "Metro-Goldwyn-Mayer CIP Filmproduktion",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "December 19, 1980 ( 1980-12-19 )"
+    ],
+    "Running time": "117 minutes",
+    "Countries": "West Germany United States",
+    "Language": "English",
+    "Box office": "$8.9 million"
+  },
+  "Foxes": {
+    "title": "Foxes",
+    "Directed by": "Adrian Lyne",
+    "Produced by": "David Puttnam Gerald Ayres",
+    "Written by": "Gerald Ayres",
+    "Starring": "Jodie Foster Scott Baio Sally Kellerman Randy Quaid",
+    "Music by": "Giorgio Moroder",
+    "Cinematography": "Leon Bijou Michael Seresin",
+    "Edited by": "James Coblentz",
+    "Production companies": "PolyGram Pictures Casablanca Records & Filmworks",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "February 29, 1980 ( 1980-02-29 )"
+    ],
+    "Running time": "106 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$7.5 million"
+  },
+  "Friday the 13th": {
+    "title": "Friday the 13th",
+    "Directed by": "Sean S. Cunningham",
+    "Produced by": "Sean S. Cunningham",
+    "Written by": "Victor Miller",
+    "Starring": [
+      "Betsy Palmer",
+      "Adrienne King",
+      "Harry Crosby",
+      "Laurie Bartram",
+      "Mark Nelson",
+      "Jeannine Taylor",
+      "Robbi Morgan",
+      "Kevin Bacon"
+    ],
+    "Music by": "Harry Manfredini",
+    "Cinematography": "Barry Abrams",
+    "Edited by": "Bill Freda",
+    "Production company": "Georgetown Productions Inc.",
+    "Distributed by": [
+      "Paramount Pictures (United States)",
+      "Warner Bros. Pictures (International)"
+    ],
+    "Release date": [
+      "May 9, 1980 ( 1980-05-09 ) (United States)"
+    ],
+    "Running time": "95 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$550,000",
+    "Box office": "$59.8 million"
+  },
+  "Galaxina": {
+    "title": "Galaxina",
+    "Directed by": "William Sachs",
+    "Produced by": "Marilyn Jacobs Tenser",
+    "Written by": "William Sachs",
+    "Starring": "Stephen Macht Avery Schreiber James David Hinton Dorothy Stratten Lionel Mark Smith",
+    "Cinematography": "Dean Cundey",
+    "Edited by": "George Berndt George Bowers",
+    "Distributed by": "Crown International Pictures",
+    "Release date": [
+      "June 6, 1980 ( 1980-06-06 )"
+    ],
+    "Running time": "95 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Gilda Live": {
+    "title": "Gilda Live",
+    "Directed by": "Mike Nichols",
+    "Produced by": "Ron Delsener Lorne Michaels",
+    "Written by": "Anne Beatts Lorne Michaels Marilyn Suzanne Miller Don Novello Michael O'Donoghue Gilda Radner Paul Shaffer Rosie Shuster Alan Zweibel",
+    "Starring": "Gilda Radner",
+    "Cinematography": "Ted Churchill",
+    "Edited by": "Ellen Hovde",
+    "Production company": "Broadway Productions",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "March 28, 1980 ( 1980-03-28 ) (United States)"
+    ],
+    "Running time": "96 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Gloria": {
+    "title": "Gloria",
+    "Directed by": "John Cassavetes",
+    "Produced by": "Sam Shaw",
+    "Written by": "John Cassavetes",
+    "Starring": "Gena Rowlands Julie Carmen Buck Henry John Adames",
+    "Music by": "Bill Conti",
+    "Cinematography": "Fred Schuler",
+    "Edited by": "George C. Villaseñor",
+    "Color process": "Technicolor",
+    "Production company": "Columbia Pictures",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "October 1, 1980 ( 1980-10-01 )"
+    ],
+    "Running time": "122 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$4.1 million"
+  },
+  "The Gods Must Be Crazy": {
+    "title": "The Gods Must Be Crazy",
+    "Directed by": "Jamie Uys",
+    "Produced by": "Jamie Uys",
+    "Written by": "Jamie Uys",
+    "Starring": [
+      "N!xau",
+      "Sandra Prinsloo",
+      "Marius Weyers",
+      "Nic de Jager",
+      "Michael Thys",
+      "Louw Verwey",
+      "Ken Gampu",
+      "Simon Sabela"
+    ],
+    "Narrated by": "Paddy O'Byrne",
+    "Music by": "John Boshoff",
+    "Cinematography": "Buster Reynolds Robert Lewis",
+    "Edited by": "Stanford C. Allen Jamie Uys",
+    "Production company": "C.A.T. Films",
+    "Distributed by": "Ster-Kinekor (South Africa) 20th Century Fox (U.S.)",
+    "Release date": [
+      "10 September 1980 ( 1980-09-10 ) (South Africa)"
+    ],
+    "Running time": "109 minutes",
+    "Countries": "South Africa Botswana",
+    "Languages": "English Afrikaans Juǀʼhoan",
+    "Budget": "US$5 million",
+    "Box office": "R 1.8 billion (approx. $200 million USD )"
+  },
+  "The Gong Show Movie": {
+    "title": "The Gong Show Movie",
+    "Directed by": "Chuck Barris",
+    "Produced by": "Budd Granoff",
+    "Written by": "Chuck Barris Robert Downey",
+    "Starring": "Chuck Barris Robin Altman James B. Douglas Mabel King Jaye P. Morgan Rip Taylor",
+    "Music by": "Milton DeLugg",
+    "Cinematography": "Richard C. Glouner",
+    "Edited by": "Jacqueline Cambas James Mitchell Sam Vitale",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "May 23, 1980 ( 1980-05-23 )"
+    ],
+    "Running time": "89 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$6,621,520"
+  },
+  "Gorp": {
+    "title": "Gorp",
+    "Directed by": "Joseph Ruben",
+    "Produced by": "Lou Arkoff Jeffrey Konvitz",
+    "Written by": "Jeffrey Konvitz A. Martin Zweiback",
+    "Starring": "Michael Lembeck Dennis Quaid Fran Drescher",
+    "Music by": "Paul Dunlap",
+    "Cinematography": "Michel Hugo",
+    "Edited by": "Bill Butler",
+    "Distributed by": "American International Pictures",
+    "Release date": [
+      "May 1, 1980 ( 1980-05-01 )"
+    ],
+    "Running time": "90 minutes",
+    "Country": "United States",
+    "Languages": "English German"
+  },
+  "Hangar 18": {
+    "title": "Hangar 18",
+    "Directed by": "James L. Conway",
+    "Produced by": "Charles E. Sellier, Jr.",
+    "Screenplay by": "Ken Pettus",
+    "Story by": [
+      "Thomas C. Chapman",
+      "James L. Conway"
+    ],
+    "Starring": [
+      "Darren McGavin",
+      "Robert Vaughn",
+      "Gary Collins",
+      "James Hampton",
+      "Pamela Bellwood"
+    ],
+    "Music by": "John Cacavas",
+    "Cinematography": "Paul Hipp",
+    "Edited by": "Michael Spence",
+    "Distributed by": "Sunn Classic Pictures",
+    "Release date": "July 1980",
+    "Running time": "97 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$11,000,000"
+  },
+  "The Happy Hooker Goes Hollywood": {
+    "title": "The Happy Hooker Goes Hollywood",
+    "Directed by": "Alan Roberts",
+    "Produced by": "Yoram Globus Menahem Golan",
+    "Written by": "Devin Goldenberg",
+    "Story by": "Alan Roberts Devin Goldenberg",
+    "Starring": "Martine Beswick Adam West Phil Silvers Chris Lemmon Edie Adams Richard Deacon",
+    "Music by": "Tom Perry",
+    "Cinematography": "Stephen Gray",
+    "Edited by": "Nicholas Wentworth",
+    "Production company": "Golan-Globus Productions",
+    "Distributed by": "Cannon Films",
+    "Release date": [
+      "June 4, 1980 ( 1980-06-04 )"
+    ],
+    "Running time": "88 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "He Knows You're Alone": {
+    "title": "He Knows You're Alone",
+    "Directed by": "Armand Mastroianni",
+    "Produced by": "George Manasse",
+    "Written by": "Scott Parker",
+    "Starring": [
+      "Caitlin O'Heaney",
+      "Don Scardino",
+      "Elizabeth Kemp",
+      "Tom Rolfing"
+    ],
+    "Music by": "Alexander Peskanov Mark Peskanov",
+    "Edited by": "George Norris",
+    "Production company": "Metro-Goldwyn-Mayer",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "August 29, 1980 ( 1980-08-29 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$250,000",
+    "Box office": "$4.9 million"
+  },
+  "HealtH": {
+    "title": "HealtH",
+    "Directed by": "Robert Altman",
+    "Produced by": "Robert Altman",
+    "Written by": "Frank Barhydt Robert Altman Paul Dooley",
+    "Starring": "Carol Burnett Glenda Jackson James Garner Lauren Bacall Paul Dooley Alfre Woodard",
+    "Music by": "Joseph Byrd",
+    "Cinematography": "Edmond L. Koons",
+    "Edited by": "Tony Lombardo Dennis Hill Tom Benko",
+    "Production company": "Lion's Gate Films",
+    "Distributed by": "20th Century-Fox",
+    "Release date": [
+      "April 7, 1982 ( 1982-04-07 ) ( Film Forum , New York City)"
+    ],
+    "Running time": "105 min.",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "US$6 million : 84"
+  },
+  "Heart Beat": {
+    "title": "Heart Beat",
+    "Directed by": "John Byrum",
+    "Produced by": "Michael Shamberg Alan Greisman David Axelrod Edward R. Pressman",
+    "Written by": "Screenplay: John Byrum Autobiography/source: Carolyn Cassady",
+    "Starring": "Nick Nolte Sissy Spacek John Heard",
+    "Music by": "Jack Nitzsche",
+    "Cinematography": "László Kovács",
+    "Edited by": "Eric Jenkins",
+    "Production company": "Orion Pictures",
+    "Distributed by": "Warner Bros.",
+    "Release date": "April 25, 1980",
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Budget": "$3.5 million",
+    "Box office": "$954,046"
+  },
+  "Heaven's Gate": {
+    "title": "Heaven's Gate",
+    "Directed by": "Michael Cimino",
+    "Produced by": "Joann Carelli",
+    "Written by": "Michael Cimino",
+    "Starring": [
+      "Kris Kristofferson",
+      "Christopher Walken",
+      "John Hurt",
+      "Sam Waterston",
+      "Brad Dourif",
+      "Isabelle Huppert",
+      "Jeff Bridges",
+      "Joseph Cotten"
+    ],
+    "Music by": "David Mansfield",
+    "Cinematography": "Vilmos Zsigmond",
+    "Edited by": [
+      "Lisa Fruchtman",
+      "Gerald Greenberg",
+      "William Reynolds",
+      "Tom Rolf"
+    ],
+    "Production company": "Partisan Productions",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "November 19, 1980 ( 1980-11-19 ) (New York City)"
+    ],
+    "Running time": "219 minutes (see Alternative versions )",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$44 million",
+    "Box office": "$3.5 million"
+  },
+  "Herbie Goes Bananas": {
+    "title": "Herbie Goes Bananas",
+    "Directed by": "Vincent McEveety",
+    "Produced by": "Kevin Corcoran Ron Miller Don Tait",
+    "Written by": "Don Tait",
+    "Based on": "Characters by Gordon Buford",
+    "Starring": "Cloris Leachman Charles Martin Smith Stephan W. Burns John Vernon Elyssa Davalos Joaquin Garay III Harvey Korman Richard Jaeckel Alex Rocco",
+    "Music by": "Frank De Vol",
+    "Cinematography": "Frank V. Phillips",
+    "Edited by": "Gordon D. Brenner",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": [
+      "June 27, 1980 ( 1980-06-27 )"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$18 million"
+  },
+  "Hero at Large": {
+    "title": "Hero at Large",
+    "Directed by": "Martin Davidson",
+    "Produced by": "Stephen J. Friedman",
+    "Written by": "AJ Carothers",
+    "Starring": [
+      "John Ritter",
+      "Anne Archer",
+      "Bert Convy",
+      "Kevin McCarthy"
+    ],
+    "Music by": "Patrick Williams",
+    "Cinematography": "David M. Walsh",
+    "Edited by": "David Garfield",
+    "Production company": "Metro-Goldwyn-Mayer",
+    "Distributed by": "United Artists (United States/Canada) Cinema International Corporation (International)",
+    "Release date": [
+      "February 8, 1980 ( 1980-02-08 )"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$15.9 million"
+  },
+  "The Hollywood Knights": {
+    "title": "The Hollywood Knights",
+    "Directed by": "Floyd Mutrux",
+    "Produced by": "William Tennant Richard Lederer",
+    "Screenplay by": "Floyd Mutrux",
+    "Story by": "Floyd Mutrux Richard Lederer William Tennant",
+    "Starring": "Robert Wuhl Tony Danza Fran Drescher Michelle Pfeiffer Stuart Pankin Debra Feuer",
+    "Cinematography": "William A. Fraker",
+    "Edited by": "Stanford C. Allen Scott Conrad Danford B. Greene (sup)",
+    "Color process": "Metrocolor",
+    "Production companies": "Casablanca Filmworks PolyGram Pictures",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "May 30, 1980 ( 1980-05-30 )"
+    ],
+    "Running time": "91 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.5 million (est.)",
+    "Box office": "$10 million (domestic)"
+  },
+  "Home Movies": {
+    "title": "Home Movies",
+    "Directed by": "Brian De Palma",
+    "Produced by": "Gilbert Adler Brian De Palma Jack Temchin",
+    "Screenplay by": "Kim Ambler Dana Edelman Robert Harders Stephen Le May Charlie Loventhal Gloria Norris",
+    "Story by": "Brian De Palma",
+    "Starring": "Kirk Douglas Nancy Allen Keith Gordon",
+    "Music by": "Pino Donaggio",
+    "Cinematography": "James L. Carter",
+    "Edited by": "Corky O'Hara",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "April 10, 1980 ( 1980-04-10 ) (Italy)"
+    ],
+    "Running time": "90 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$400,000",
+    "Box office": "$89,134 (USA)"
+  },
+  "Honeysuckle Rose": {
+    "title": "Honeysuckle Rose",
+    "Directed by": "Jerry Schatzberg",
+    "Produced by": [
+      "Sydney Pollack",
+      "Gene Taft"
+    ],
+    "Written by": [
+      "John Binder",
+      "Gustaf Molander",
+      "Carol Sobieski",
+      "Gösta Stevens",
+      "William D. Wittliff"
+    ],
+    "Based on": "Intermezzo",
+    "Starring": [
+      "Willie Nelson",
+      "Dyan Cannon",
+      "Amy Irving",
+      "Slim Pickens"
+    ],
+    "Music by": [
+      "Richard Baskin",
+      "Willie Nelson"
+    ],
+    "Cinematography": "Robby Müller",
+    "Edited by": [
+      "Aram Avakian",
+      "Norman Gay",
+      "Marc Laub",
+      "Evan A. Lottman"
+    ],
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "July 18, 1980 ( 1980-07-18 )"
+    ],
+    "Running time": "119 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$17.8 million"
+  },
+  "Hopscotch": {
+    "title": "Hopscotch",
+    "Directed by": "Ronald Neame",
+    "Produced by": "Edie Landau Ely A. Landau",
+    "Written by": "Bryan Forbes Brian Garfield",
+    "Story by": "Brian Garfield",
+    "Starring": "Walter Matthau Glenda Jackson Sam Waterston Ned Beatty Herbert Lom",
+    "Music by": "Ian Fraser",
+    "Cinematography": "Arthur Ibbetson Brian W. Roy",
+    "Distributed by": "AVCO Embassy Pictures",
+    "Release date": [
+      "September 26, 1980 ( 1980-09-26 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "How to Beat the High Cost of Living": {
+    "title": "How to Beat the High Cost of Living",
+    "Directed by": "Robert Scheerer",
+    "Produced by": "Robert Kaufman Jerome M. Zeitman Bernard G. Wilens",
+    "Written by": "Robert Kaufman Leonora Thung",
+    "Starring": "Jane Curtin Susan Saint James Jessica Lange Richard Benjamin Fred Willard",
+    "Music by": "Patrick Williams",
+    "Cinematography": "James Crabe",
+    "Edited by": "Bill Butler",
+    "Distributed by": "American International Pictures",
+    "Release date": "July 11, 1980",
+    "Running time": "105 min.",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$7,500,000"
+  },
+  "Humanoids from the Deep": {
+    "title": "Humanoids from the Deep",
+    "Directed by": "Barbara Peeters Jimmy T. Murakami (uncredited)",
+    "Produced by": "Martin B. Cohen Roger Corman (executive)",
+    "Screenplay by": "Frederick James",
+    "Story by": "Frank Arnold Martin B. Cohen",
+    "Starring": "Doug McClure Ann Turkel Vic Morrow Lynn Schiller",
+    "Music by": "James Horner",
+    "Cinematography": "Daniel Lacambre",
+    "Edited by": "Mark Goldblatt",
+    "Distributed by": "New World Pictures (United States) United Artists (International)",
+    "Release date": [
+      "May 16, 1980 ( 1980-05-16 )"
+    ],
+    "Running time": "80 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2.5 million"
+  },
+  "The Hunter": {
+    "title": "The Hunter",
+    "Directed by": "Buzz Kulik",
+    "Produced by": "Mort Engelberg",
+    "Written by": [
+      "Ted Leighton",
+      "Peter Hyams"
+    ],
+    "Starring": [
+      "Steve McQueen",
+      "Eli Wallach",
+      "Kathryn Harrold",
+      "LeVar Burton",
+      "Ben Johnson"
+    ],
+    "Music by": "Michel Legrand",
+    "Cinematography": "Fred J. Koenekamp",
+    "Edited by": "Robert L. Wolfe",
+    "Production company": "Rastar",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "August 1, 1980 ( 1980-08-01 )"
+    ],
+    "Running time": "97 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$16,274,150"
+  },
+  "The Idolmaker": {
+    "title": "The Idolmaker",
+    "Directed by": "Taylor Hackford",
+    "Produced by": "Gene Kirkwood Howard W. Koch Jr.",
+    "Written by": "Edward di Lorenzo",
+    "Starring": [
+      "Ray Sharkey",
+      "Peter Gallagher",
+      "Joe Pantoliano",
+      "Tovah Feldshuh"
+    ],
+    "Music by": "Jeff Barry",
+    "Cinematography": "Adam Holender",
+    "Edited by": "Neil Travis",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "November 14, 1980 ( 1980-11-14 )"
+    ],
+    "Running time": "117 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2,625,716"
+  },
+  "A Thief in the Night": {
+    "title": "A Thief in the Night",
+    "Produced by": "Donald W. Thompson",
+    "Written by": "Russell S. Doughten, Jr. Jim Grant Donald W. Thompson",
+    "Starring": "Patty Dunning Mike Niday Colleen Niday Maryann Rachford Thom Rachford Duane Coller Russell S. Doughten, Jr. Clarence Balmer",
+    "Cinematography": "John P. Leiendecker, Jr.",
+    "Edited by": "Wes Phillippi",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "In God We Tru$t": {
+    "title": "In God We Tru$t",
+    "Directed by": "Marty Feldman",
+    "Produced by": "George Shapiro Howard West",
+    "Written by": "Chris Allen Marty Feldman",
+    "Starring": [
+      "Marty Feldman",
+      "Peter Boyle",
+      "Andy Kaufman",
+      "Louise Lasser",
+      "Richard Pryor"
+    ],
+    "Music by": "John Morris",
+    "Cinematography": "Charles Correll",
+    "Edited by": "David Blewitt",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "September 26, 1980 ( 1980-09-26 )"
+    ],
+    "Running time": "97 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$5.2 million"
+  },
+  "Inside Moves": {
+    "title": "Inside Moves",
+    "Directed by": "Richard Donner",
+    "Produced by": "R.W. Goodwin Mark M. Tanz",
+    "Written by": "Valerie Curtin Barry Levinson",
+    "Based on": "Inside Moves by Todd Walton",
+    "Starring": "John Savage David Morse Diana Scarwid Amy Wright Tony Burton",
+    "Music by": "John Barry",
+    "Cinematography": "László Kovács",
+    "Edited by": "Frank Morriss",
+    "Production company": "ITC Entertainment",
+    "Distributed by": "Associated Film Distribution",
+    "Release date": [
+      "December 19, 1980 ( 1980-12-19 )"
+    ],
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "The Island": {
+    "title": "The Island",
+    "Directed by": "Michael Ritchie",
+    "Produced by": [
+      "David Brown",
+      "Richard D. Zanuck"
+    ],
+    "Screenplay by": "Peter Benchley",
+    "Based on": "The Island by Peter Benchley",
+    "Starring": [
+      "Michael Caine",
+      "David Warner",
+      "Angela Punch McGregor"
+    ],
+    "Music by": "Ennio Morricone",
+    "Cinematography": "Henri Decaë",
+    "Edited by": "Richard A. Harris",
+    "Production companies": [
+      "Universal Pictures",
+      "Zanuck/Brown Company"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "June 13, 1980 ( 1980-06-13 )"
+    ],
+    "Running time": "114 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$22 million",
+    "Box office": "$15.7 million (US)"
+  },
+  "It's My Turn": {
+    "title": "It's My Turn",
+    "Directed by": "Claudia Weill",
+    "Produced by": "Martin Elfand Jay Presson Allen",
+    "Written by": "Eleanor Bergstein",
+    "Starring": "Jill Clayburgh Michael Douglas Charles Grodin",
+    "Music by": "Patrick Williams",
+    "Cinematography": "Bill Butler",
+    "Edited by": "Byron 'Buzz' Brandt James Coblentz Marjorie Fowler David Bretherton",
+    "Production company": "Rastar",
+    "Distributed by": "Columbia Pictures",
+    "Release date": "October 24, 1980 ( 1980-10-24 )",
+    "Running time": "91 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$11 million"
+  },
+  "Jane Austen in Manhattan": {
+    "title": "Jane Austen in Manhattan",
+    "Directed by": "James Ivory",
+    "Produced by": "Ismail Merchant",
+    "Written by": "Ruth Prawer Jhabvala (Libretto \"Sir Charles Grandison\" by Jane Austen & Samuel Richardson , based on a play \"Sir Charles Grandison, or The Happy Man\" by Jane Austen )",
+    "Starring": "Anne Baxter Robert Powell Michael Wager Sean Young Charles McCaughan Tim Choate",
+    "Music by": "Richard Robbins (arranged from Mozart's works) Katrina Hodiak (songs)",
+    "Cinematography": "Ernest Vincze , Larry Pizer (opera sequence)",
+    "Edited by": "David E. McKenna",
+    "Distributed by": "Contemporary Films",
+    "Release date": [
+      "July 1980 ( 1980-07 )"
+    ],
+    "Running time": "111 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "The Jazz Singer": {
+    "title": "The Jazz Singer",
+    "Directed by": "Richard Fleischer",
+    "Produced by": "Jerry Leider",
+    "Screenplay by": [
+      "Herbert Baker",
+      "Stephen H. Foreman"
+    ],
+    "Based on": "The Jazz Singer by Samson Raphaelson",
+    "Starring": [
+      "Neil Diamond",
+      "Laurence Olivier",
+      "Lucie Arnaz",
+      "Catlin Adams",
+      "Franklyn Ajaye",
+      "Paul Nicholas"
+    ],
+    "Music by": "Gilbert Bécaud Neil Diamond Leonard Rosenman Richard Bennett Alan E. Lindgren",
+    "Cinematography": "Isidore Mankofsky",
+    "Edited by": "Frank J. Urioste",
+    "Production company": "EMI Films",
+    "Distributed by": "Associated Film Distribution",
+    "Release date": [
+      "December 19, 1980 ( 1980-12-19 )"
+    ],
+    "Running time": "115 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$13 million",
+    "Box office": "$27.1 million"
+  },
+  "Just Tell Me What You Want": {
+    "title": "Just Tell Me What You Want",
+    "Directed by": "Sidney Lumet",
+    "Produced by": "Jay Presson Allen Sidney Lumet",
+    "Written by": "Jay Presson Allen",
+    "Starring": "Ali MacGraw Alan King Peter Weller Myrna Loy Dina Merrill Keenan Wynn Tony Roberts",
+    "Music by": "Charles Strouse",
+    "Cinematography": "Oswald Morris",
+    "Edited by": "Jack Fitzstephens",
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "January 18, 1980 ( 1980-01-18 )"
+    ],
+    "Running time": "112 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2,086,905"
+  },
+  "The Kidnapping of the President": {
+    "title": "The Kidnapping of the President",
+    "Directed by": "George Mendeluk",
+    "Produced by": "George Mendeluk John Ryan",
+    "Written by": "Richard Murphy Charles Templeton",
+    "Starring": "William Shatner Hal Holbrook Van Johnson Ava Gardner Miguel Fernandes Cindy Girling Michael J. Reynolds Elizabeth Shepherd Gary Reineke Maury Chaykin",
+    "Music by": "Nash the Slash Paul Zaza",
+    "Cinematography": "Mike Molloy",
+    "Edited by": "Michael MacLaverty",
+    "Distributed by": "Crown International Pictures",
+    "Release date": [
+      "15 August 1980 ( 1980-08-15 ) (U.S.)",
+      "19 September 1980 ( 1980-09-19 ) (Canada)"
+    ],
+    "Running time": "114 minutes",
+    "Countries": "Canada United States",
+    "Language": "English"
+  },
+  "Kill or Be Killed": {
+    "title": "Kill or Be Killed",
+    "Directed by": "Ivan Hall",
+    "Produced by": "Ben Vlok",
+    "Written by": "C.F. Beyers-Boshoff",
+    "Starring": "James Ryan Norman Coombes Charlotte Michelle Danie DuPlessis Ed Kannemeyer",
+    "Cinematography": "Manie Botha",
+    "Edited by": "Hillary Malebysse-Smith Brian Varaday",
+    "Distributed by": "Film Ventures International",
+    "Release date": [
+      "1980 ( 1980 )"
+    ],
+    "Running time": "90 minutes",
+    "Countries": "South Africa United States",
+    "Language": "English"
+  },
+  "The Last Flight of Noah's Ark": {
+    "title": "The Last Flight of Noah's Ark",
+    "Directed by": "Charles Jarrott",
+    "Produced by": "Ron Miller Jan Williams",
+    "Written by": "Steven W. Carabatsos Sandy Glass George Arthur Bloom",
+    "Based on": "\"The Gremlin's Castle\" by Ernest K. Gann",
+    "Starring": "Elliott Gould Geneviève Bujold Ricky Schroder",
+    "Music by": "Maurice Jarre",
+    "Cinematography": "Charles F. Wheeler",
+    "Edited by": "Gordon D. Brenner",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": [
+      "July 9, 1980 ( 1980-07-09 ) (Los Angeles)"
+    ],
+    "Running time": "97 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6-8 million",
+    "Box office": "$11 million"
+  },
+  "The Last Married Couple in America": {
+    "title": "The Last Married Couple in America",
+    "Directed by": "Gilbert Cates",
+    "Produced by": "Edward S. Feldman John Herman Shaner",
+    "Written by": "John Herman Shaner",
+    "Starring": "George Segal Natalie Wood Richard Benjamin Valerie Harper Dom DeLuise Bob Dishy",
+    "Cinematography": "Gerald Hirschfeld",
+    "Edited by": "Sidney Katz",
+    "Distributed by": "Universal Pictures",
+    "Release date": "February 8, 1980 ( 1980-02-08 )",
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$12,835,544"
+  },
+  "The Lathe of Heaven (film)": {
+    "title": "The Lathe of Heaven (film)",
+    "Genre": "Sci-Fi",
+    "Written by": "Diane English Ursula K. Le Guin (novel) Roger Swaybill",
+    "Directed by": "David Loxton Fred Barzyk",
+    "Starring": "Bruce Davison Kevin Conway Margaret Avery",
+    "Music by": "Michael Small",
+    "Country of origin": "United States",
+    "Original language": "English"
+  },
+  "The Legend of Alfred Packer": {
+    "title": "The Legend of Alfred Packer",
+    "Directed by": "Jim Roberson",
+    "Produced by": "Mark J. Webb",
+    "Screenplay by": [
+      "Burton Raffel",
+      "Chuck Meyers"
+    ],
+    "Story by": "Burton Raffel",
+    "Starring": [
+      "Patrick Dray",
+      "Ronald Haines",
+      "Jim Dratfield",
+      "Bob Damon",
+      "Dave Ellingson",
+      "Ron Holiday",
+      "Lawrence Bleir",
+      "Cynthia Nessin"
+    ],
+    "Music by": "Jaime Mendoza-Nava",
+    "Cinematography": "James Warren",
+    "Edited by": "Shirak Kojayan",
+    "Production company": "Packer Productions Ltd.",
+    "Distributed by": "American National Enterprises",
+    "Release date": [
+      "1980 ( 1980 ) (United States)"
+    ],
+    "Running time": "93 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "The Life and Times of Rosie the Riveter": {
+    "title": "The Life and Times of Rosie the Riveter",
+    "Directed by": "Connie Field",
+    "Produced by": "Connie Field",
+    "Starring": "Wanita Allen Gladys Belcher Lyn Childs Lola Weixel Margaret Wright",
+    "Cinematography": "Cathy Zheutlin Bonnie Friedman Robert Handley Emiko Omori",
+    "Edited by": "Lucy Massie Phenix Connie Field",
+    "Distributed by": "Clarity Films",
+    "Release date": "September 27, 1980 (re-released February 24th, 2014)",
+    "Running time": "65 min",
+    "Language": "English"
+  },
+  "Little Darlings": {
+    "title": "Little Darlings",
+    "Directed by": "Ronald F. Maxwell",
+    "Produced by": "Stephen J. Friedman",
+    "Screenplay by": "Kimi Peck Dalene Young",
+    "Story by": "Kimi Peck",
+    "Starring": "Tatum O'Neal Kristy McNichol Armand Assante Matt Dillon Maggie Blye Nicolas Coster Marianne Gordon",
+    "Music by": "Charles Fox",
+    "Cinematography": "Beda Batka",
+    "Edited by": "Pembroke J. Herring",
+    "Distributed by": "Paramount Pictures",
+    "Release date": "March 21, 1980 (US)",
+    "Running time": "95 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5.3 million",
+    "Box office": "$34,326,249"
+  },
+  "The Little Dragons": {
+    "title": "The Little Dragons",
+    "Directed by": "Curtis Hanson",
+    "Produced by": "Tony Bill (executive producer) Robert S. Bremson (executive producer) Curtis Hanson (producer) Hannah Hempstead (producer) Ramiro Jaloma (associate producer)",
+    "Written by": "Harvey Applebaum Louis G. Atlee Rudolph Borchert Alan Ormsby",
+    "Starring": "Charles Lane Ann Sothern Chris Petersen Pat Petersen Sally Boyden Rick Lenz Sharon Clark Joe Spinell John Davis Chandler",
+    "Music by": "Ken Lauber",
+    "Cinematography": "Stephen M. Katz",
+    "Edited by": "Ronald Sinclair",
+    "Production company": "Eastwind Productions",
+    "Distributed by": "Aurora Film Corporation",
+    "Release date": "July 18, 1980",
+    "Running time": "90 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Little Miss Marker": {
+    "title": "Little Miss Marker",
+    "Directed by": "Walter Bernstein",
+    "Produced by": "Jennings Lang Walter Matthau",
+    "Written by": "Walter Bernstein Damon Runyon",
+    "Starring": "Walter Matthau Julie Andrews Tony Curtis Bob Newhart Lee Grant Sara Stimson",
+    "Music by": "Henry Mancini",
+    "Cinematography": "Philip H. Lathrop",
+    "Edited by": "Eve Newman",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "March 21, 1980 ( 1980-03-21 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$6,321,392"
+  },
+  "The Long Riders": {
+    "title": "The Long Riders",
+    "Directed by": "Walter Hill",
+    "Produced by": "Tim Zinnemann Stacy Keach James Keach",
+    "Written by": "Bill Bryden Steven Phillip Smith Stacy Keach James Keach",
+    "Starring": "David Carradine Keith Carradine Robert Carradine James Keach Stacy Keach Dennis Quaid Randy Quaid Christopher Guest Nicholas Guest",
+    "Music by": "Ry Cooder",
+    "Cinematography": "Ric Waite",
+    "Edited by": "Freeman A. Davies David Holden",
+    "Production company": "Huka Productions",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "May 16, 1980 ( 1980-05-16 )"
+    ],
+    "Running time": "99 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$8 million",
+    "Box office": "$15,795,189 241,290 admissions (France)"
+  },
+  "Loose Shoes": {
+    "title": "Loose Shoes",
+    "Directed by": "Ira Miller",
+    "Produced by": "Joel Chernoff",
+    "Written by": "Royce D. Applegate Ira Miller Dan Praiser Charley Smith",
+    "Starring": "Royce D. Applegate Bill Murray Lewis Arquette Howard Hesseman",
+    "Music by": "Murphy Dunne",
+    "Cinematography": "Jack Beckett",
+    "Edited by": "Alan Balsam Danford B. Greene (sup)",
+    "Production company": "Brooksfilms",
+    "Distributed by": "National American Films",
+    "Release date": [
+      "August 1, 1980 ( 1980-08-01 )"
+    ],
+    "Running time": "84 mins",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Loving Couples": {
+    "title": "Loving Couples",
+    "Directed by": "Jack Smight",
+    "Produced by": "David Susskind",
+    "Written by": "Martin Donovan",
+    "Starring": "Shirley MacLaine James Coburn Susan Sarandon Stephen Collins",
+    "Music by": "Fred Karlin",
+    "Cinematography": "Philip H. Lathrop",
+    "Edited by": "Frank J. Urioste",
+    "Production company": "Time-Life Films",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "October 24, 1980 ( 1980-10-24 )"
+    ],
+    "Running time": "97 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Mad Max": {
+    "title": "Mad Max",
+    "Created by": [
+      "George Miller",
+      "Byron Kennedy"
+    ],
+    "Original work": "Mad Max (1979)",
+    "Owned by": "Roadshow Entertainment Warner Bros. Pictures Metro-Goldwyn-Mayer",
+    "Years": "1979–present"
+  },
+  "The Magician of Lublin": {
+    "title": "The Magician of Lublin",
+    "Directed by": "Menahem Golan",
+    "Produced by": [
+      "Menahem Golan",
+      "Yoram Globus",
+      "Harry N. Blum"
+    ],
+    "Screenplay by": [
+      "Menahem Golan",
+      "Sheldon Patinkin",
+      "Irving S. White"
+    ],
+    "Based on": "The Magician of Lublin by Isaac Bashevis Singer",
+    "Starring": [
+      "Alan Arkin",
+      "Louise Fletcher",
+      "Shelley Winters"
+    ],
+    "Music by": [
+      "Dov Seltzer",
+      "Maurice Jarre"
+    ],
+    "Cinematography": "David Gurfinkel",
+    "Edited by": "Dov Hoenig",
+    "Production company": "Golan-Globus Productions",
+    "Distributed by": "Cannon Films",
+    "Release date": [
+      "October 1979 ( 1979-10 ) ( Chicago )"
+    ],
+    "Running time": "114 minutes",
+    "Countries": [
+      "Israel",
+      "West Germany"
+    ],
+    "Languages": [
+      "English",
+      "German"
+    ],
+    "Budget": "$6 million"
+  },
+  "The Man with Bogart's Face": {
+    "title": "The Man with Bogart's Face",
+    "Directed by": "Robert Day",
+    "Produced by": "Andrew J. Fenady",
+    "Screenplay by": "Andrew J. Fenady",
+    "Based on": "The Man with Bogart's Face by Andrew J. Fenady",
+    "Starring": "Robert Sacchi Franco Nero Michelle Phillips Olivia Hussey Misty Rowe Victor Buono Sybil Danning Herbert Lom",
+    "Music by": "George Duning",
+    "Cinematography": "Richard C. Glouner",
+    "Edited by": "Houseley Stevenson Jr.",
+    "Production company": "Melvin Simon Productions",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "106 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million"
+  },
+  "Maniac": {
+    "title": "Maniac",
+    "Directed by": "William Lustig",
+    "Produced by": [
+      "Andrew W. Garroni",
+      "William Lustig"
+    ],
+    "Screenplay by": [
+      "C. A. Rosenberg",
+      "Joe Spinell"
+    ],
+    "Story by": "Joe Spinell",
+    "Starring": [
+      "Joe Spinell",
+      "Caroline Munro"
+    ],
+    "Music by": "Jay Chattaway",
+    "Cinematography": "Robert Lindsay",
+    "Edited by": "Lorenzo Marinelli",
+    "Production company": "Magnum Motion Pictures Inc.",
+    "Distributed by": "Analysis Film Releasing Corporation",
+    "Release date": [
+      "January 30, 1981 ( 1981-01-30 ) (New York City)",
+      "March 6, 1981 ( 1981-03-06 ) (Los Angeles)"
+    ],
+    "Running time": "88 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$350,000",
+    "Box office": "$10 million"
+  },
+  "Melvin and Howard": {
+    "title": "Melvin and Howard",
+    "Directed by": "Jonathan Demme",
+    "Produced by": "Art Linson Don Phillips",
+    "Written by": "Bo Goldman",
+    "Starring": "Paul Le Mat Mary Steenburgen Pamela Reed Jason Robards",
+    "Music by": "Bruce Langhorne",
+    "Cinematography": "Tak Fujimoto",
+    "Edited by": "Craig McKay",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "September 19, 1980 ( 1980-09-19 )"
+    ],
+    "Running time": "95 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$4.3 million"
+  },
+  "Middle Age Crazy": {
+    "title": "Middle Age Crazy",
+    "Directed by": "John Trent",
+    "Produced by": "Ronald Cooper Ronald Cohen Sid & Marty Krofft",
+    "Screenplay by": "Carl Kleinschmitt Jerry Lee Lewis",
+    "Starring": "Bruce Dern Ann-Margret",
+    "Music by": "Matthew McCauley",
+    "Cinematography": "Reginald H. Morris",
+    "Edited by": "John Kelly",
+    "Production companies": "Canadian Film Development Corporation Guardian Trust Company Krofft Entertainment Tormont Films",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "July 25, 1980 ( 1980-07-25 )"
+    ],
+    "Running time": "95 minutes",
+    "Countries": "United States Canada",
+    "Language": "English",
+    "Budget": "$5,100,000"
+  },
+  "Midnight Madness": {
+    "title": "Midnight Madness",
+    "Directed by": "Michael Nankin David Wechter",
+    "Produced by": "Ron Miller",
+    "Written by": "Michael Nankin David Wechter",
+    "Starring": [
+      "David Naughton",
+      "Michael J. Fox",
+      "Stephen Furst",
+      "Maggie Roswell",
+      "Eddie Deezen",
+      "Dirk Blocker",
+      "Debra Clinger",
+      "Brad Wilkin"
+    ],
+    "Music by": "Julius Wechter",
+    "Cinematography": "Frank V. Phillips",
+    "Edited by": "Norman R. Palmer Jack Sekely",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": [
+      "February 8, 1980 ( 1980-02-08 )"
+    ],
+    "Running time": "112 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2.9 million"
+  },
+  "The Mirror Crack'd": {
+    "title": "The Mirror Crack'd",
+    "Directed by": "Guy Hamilton",
+    "Produced by": "John Brabourne Richard Goodwin",
+    "Screenplay by": "Jonathan Hales Barry Sandler",
+    "Based on": "The Mirror Crack'd from Side to Side by Agatha Christie",
+    "Starring": "Angela Lansbury Elizabeth Taylor Kim Novak Rock Hudson Edward Fox Geraldine Chaplin Tony Curtis",
+    "Music by": "John Cameron",
+    "Cinematography": "Christopher G. Challis",
+    "Edited by": "Richard Marden",
+    "Production companies": "EMI Films GW Films",
+    "Distributed by": "Columbia-Warner Distributors",
+    "Release date": [
+      "19 December 1980 ( 1980-12-19 ) (United States)",
+      "6 February 1981 ( 1981-02-06 ) (United Kingdom)"
+    ],
+    "Running time": "105 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Budget": "$5.5 million",
+    "Box office": "$11 million"
+  },
+  "The Monster Club": {
+    "title": "The Monster Club",
+    "Directed by": "Roy Ward Baker",
+    "Produced by": "Milton Subotsky",
+    "Written by": "Edward Abraham Valerie Abraham",
+    "Starring": "Vincent Price Donald Pleasence John Carradine Stuart Whitman",
+    "Music by": "Douglas Gamley",
+    "Cinematography": "Peter Jessop",
+    "Edited by": "Peter Tanner",
+    "Production companies": "Chips Productions Sword and Sorcery Productions",
+    "Distributed by": "ITC",
+    "Release date": "2 April 1981",
+    "Running time": "97 minutes",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Motel Hell": {
+    "title": "Motel Hell",
+    "Directed by": "Kevin Connor",
+    "Produced by": "Robert Jaffe Steven-Charles Jaffe",
+    "Written by": "Robert Jaffe Steven-Charles Jaffe Tim Tuchrello (uncredited) Frank Cotolo (uncredited)",
+    "Starring": "Rory Calhoun Paul Linke Nancy Parsons Nina Axelrod Wolfman Jack",
+    "Music by": "Lance Rubin",
+    "Cinematography": "Thomas Del Ruth",
+    "Edited by": "Bernard Gribble",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "October 18, 1980 ( 1980-10-18 )"
+    ],
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3 million (estimated)",
+    "Box office": "$6.3 million"
+  },
+  "Mother's Day": {
+    "title": "Mother's Day",
+    "Directed by": "Charles Kaufman",
+    "Produced by": [
+      "Michael Herz",
+      "Charles Kaufman"
+    ],
+    "Written by": [
+      "Charles Kaufman",
+      "Warren Leight"
+    ],
+    "Starring": [
+      "Nancy Hendrickson",
+      "Deborah Luce",
+      "Tiana Pierce",
+      "Gary Pollard",
+      "Michael McCleery",
+      "Beatrice Pons"
+    ],
+    "Music by": [
+      "Phil Gallo",
+      "Clem Vicari, Jr."
+    ],
+    "Cinematography": "Joseph Mangine",
+    "Edited by": "Daniel Loewenthal",
+    "Production companies": [
+      "Duty Productions",
+      "Saga Films A.B."
+    ],
+    "Distributed by": "United Film Distribution Company",
+    "Release date": [
+      "September 19, 1980 ( 1980-09-19 )"
+    ],
+    "Running time": "91 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$115,000"
+  },
+  "The Mountain Men": {
+    "title": "The Mountain Men",
+    "Directed by": "Richard Lang",
+    "Produced by": "Martin Shafer Andrew Scheinman",
+    "Written by": "Fraser C. Heston (as Fraser Clarke Heston)",
+    "Starring": "Charlton Heston Brian Keith",
+    "Music by": "Michel Legrand",
+    "Cinematography": "Michel Hugo",
+    "Edited by": "Eva Ruggiero",
+    "Color process": "Metrocolor",
+    "Production company": "Polyc International BV",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "June 1, 1980 ( 1980-06-01 )"
+    ],
+    "Running time": "100 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "My Bodyguard": {
+    "title": "My Bodyguard",
+    "Directed by": "Tony Bill",
+    "Produced by": "Melvin Simon Don Devlin",
+    "Written by": "Alan Ormsby",
+    "Starring": "Chris Makepeace Ruth Gordon Matt Dillon John Houseman Craig Richard Nelson Kathryn Grody Adam Baldwin Martin Mull",
+    "Music by": "Dave Grusin",
+    "Cinematography": "Michael D. Margulies",
+    "Edited by": "Stu Linder",
+    "Production company": "Melvin Simon Productions",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "July 11, 1980 ( 1980-07-11 ) ( Limited )",
+      "August 15, 1980 ( 1980-08-15 ) ( Wide )"
+    ],
+    "Running time": "96 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3 million",
+    "Box office": "$22.5 million"
+  },
+  "Night of the Demon": {
+    "title": "Night of the Demon",
+    "Directed by": "James C. Wasson",
+    "Produced by": "Jim L. Ball",
+    "Screenplay by": "Mike Williams",
+    "Story by": "Jim L. Ball",
+    "Starring": [
+      "Joy Allen",
+      "Rick Fields",
+      "Bob Collins",
+      "Michael Cutt",
+      "Jody Lazarus",
+      "Michael Lang",
+      "Melanie Graham"
+    ],
+    "Music by": "Stuart Hardy Dennis McCarthy",
+    "Cinematography": "John Quick",
+    "Edited by": "Joy Rencher's Editorial Service",
+    "Production company": "Aldan Company",
+    "Release date": "November 24, 1980",
+    "Running time": "92 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Nightkill": {
+    "title": "Nightkill",
+    "Directed by": "Ted Post",
+    "Written by": "Joan Andre",
+    "Story by": "John Case",
+    "Starring": "Jaclyn Smith, James Franciscus, Mike Connors and Robert Mitchum",
+    "Distributed by": "Cine Artist Film",
+    "Release date": [
+      "December 18, 1980 ( 1980-12-18 )"
+    ],
+    "Running time": "97 minutes",
+    "Country": "West Germany",
+    "Language": "English"
+  },
+  "Nijinsky": {
+    "title": "Nijinsky",
+    "Directed by": "Herbert Ross",
+    "Produced by": "Nora Kaye Stanley O'Toole Harry Saltzman",
+    "Written by": "Hugh Wheeler Romola Nijinsky Vaslav Nijinsky",
+    "Starring": "Alan Bates Leslie Browne George De La Peña Alan Badel Colin Blakely Carla Fracci",
+    "Cinematography": "Douglas Slocombe",
+    "Edited by": "William Reynolds",
+    "Production company": "Hera Productions",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "March 20, 1980 ( 1980-03-20 )"
+    ],
+    "Running time": "129 min.",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$1,047,454"
+  },
+  "9 to 5": {
+    "title": "9 to 5",
+    "Directed by": "Colin Higgins",
+    "Produced by": "Bruce Gilbert",
+    "Screenplay by": "Colin Higgins Patricia Resnick",
+    "Story by": "Patricia Resnick",
+    "Starring": "Jane Fonda Lily Tomlin Dolly Parton Dabney Coleman Elizabeth Wilson Sterling Hayden",
+    "Music by": "Charles Fox",
+    "Cinematography": "Reynaldo Villalobos",
+    "Edited by": "Pembroke J. Herring",
+    "Production company": "IPC Films",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "December 19, 1980 ( 1980-12-19 )"
+    ],
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$103.3 million"
+  },
+  "The Ninth Configuration": {
+    "title": "The Ninth Configuration",
+    "Directed by": "William Peter Blatty",
+    "Produced by": "William Peter Blatty",
+    "Written by": "William Peter Blatty",
+    "Based on": "The Ninth Configuration by William Peter Blatty",
+    "Starring": "Stacy Keach Scott Wilson Jason Miller Ed Flanders",
+    "Music by": "Barry De Vorzon",
+    "Cinematography": "Gerry Fisher",
+    "Edited by": "Battle Davis Tony de Zarraga Peter Lee-Thompson Roberto Silvi",
+    "Distributed by": "Warner Bros. United Film Distribution (original release) New World Pictures (1985 re-release)",
+    "Release date": "February 29, 1980",
+    "Running time": "118 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.5 million"
+  },
+  "Nothing Personal": {
+    "title": "Nothing Personal",
+    "Produced by": "David Perlmutter",
+    "Written by": "Robert Kaufman",
+    "Starring": "Suzanne Somers Donald Sutherland Roscoe Lee Browne Dabney Coleman Lawrence Dane Chief Dan George John Dehner",
+    "Music by": "Peter Mann",
+    "Cinematography": "Lazlo George & Arthur Ibbetson",
+    "Edited by": "George Appleby",
+    "Distributed by": "American International Pictures (US)",
+    "Release date": "March 28, 1980",
+    "Country": "Canada/U.S.",
+    "Language": "English"
+  },
+  "The Nude Bomb": {
+    "title": "The Nude Bomb",
+    "Directed by": "Clive Donner",
+    "Produced by": "Jennings Lang",
+    "Written by": "Bill Dana Arne Sultan Leonard Stern",
+    "Based on": "Get Smart by Mel Brooks Buck Henry",
+    "Starring": [
+      "Don Adams",
+      "Sylvia Kristel",
+      "Rhonda Fleming",
+      "Dana Elcar",
+      "Pamela Hensley",
+      "Andrea Howard",
+      "Norman Lloyd",
+      "Vittorio Gassman"
+    ],
+    "Music by": "Lalo Schifrin",
+    "Edited by": "Phil Tucker",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "May 9, 1980 ( 1980-05-09 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$14.7 million"
+  },
+  "The Octagon": {
+    "title": "The Octagon",
+    "Directed by": "Eric Karson",
+    "Produced by": "Joel Freeman",
+    "Written by": "Leigh Chapman",
+    "Story by": [
+      "Leigh Chapman",
+      "Paul Aaron"
+    ],
+    "Starring": [
+      "Chuck Norris",
+      "Karen Carlson",
+      "Tadashi Yamashita"
+    ],
+    "Music by": "Dick Halligan",
+    "Cinematography": "Michel Hugo",
+    "Edited by": "Dann Cahn",
+    "Production company": "American Cinema Productions",
+    "Distributed by": "American Cinema Releasing",
+    "Release date": [
+      "August 22, 1980 ( 1980-08-22 ) (Los Angeles)"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million or $2.5 million",
+    "Box office": "$19 million (United States) or $25 million"
+  },
+  "Oh, God Book II": {
+    "title": "Oh, God Book II",
+    "Directed by": "Gilbert Cates",
+    "Produced by": "Gilbert Cates",
+    "Screenplay by": "Josh Greenfeld Hal Goldman Fred S. Fox Seaman Jacobs Melissa Miller",
+    "Starring": "George Burns Suzanne Pleshette David Birney Louanne Sirota",
+    "Music by": "Charles Fox",
+    "Cinematography": "Ralph Woolsey",
+    "Edited by": "Peter E. Berger",
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$14,504,277"
+  },
+  "Oh! Heavenly Dog": {
+    "title": "Oh! Heavenly Dog",
+    "Directed by": "Joe Camp",
+    "Produced by": "Joe Camp",
+    "Written by": "Rod Browning Joe Camp",
+    "Starring": "Chevy Chase Benji Jane Seymour Omar Sharif Robert Morley Alan Sues Donnelly Rhodes",
+    "Music by": "Euel Box Frank Denson",
+    "Cinematography": "Don Reddy",
+    "Edited by": "Steve R. Moore Leon Seith",
+    "Production company": "Mulberry Square Productions",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "July 11, 1980 ( 1980-07-11 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6 million"
+  },
+  "One-Trick Pony": {
+    "title": "One-Trick Pony",
+    "Directed by": "Robert M. Young",
+    "Produced by": "Michael Tannen",
+    "Written by": "Paul Simon",
+    "Starring": "Paul Simon Blair Brown Rip Torn Joan Hackett",
+    "Music by": "Paul Simon",
+    "Cinematography": "Dick Bush",
+    "Edited by": "Edward Beyer Barry Malkin David Ray",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$843,215"
+  },
+  "Ordinary People": {
+    "title": "Ordinary People",
+    "Directed by": "Robert Redford",
+    "Produced by": "Ronald L. Schwary",
+    "Screenplay by": "Alvin Sargent",
+    "Based on": "Ordinary People by Judith Guest",
+    "Starring": "Donald Sutherland Mary Tyler Moore Judd Hirsch Timothy Hutton",
+    "Music by": "Marvin Hamlisch",
+    "Cinematography": "John Bailey",
+    "Edited by": "Jeff Kanew",
+    "Production companies": "Wildwood Enterprises, Inc",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "September 19, 1980 ( 1980-09-19 )"
+    ],
+    "Running time": "124 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6.2 million",
+    "Box office": "$90 million"
+  },
+  "Out of the Blue": {
+    "title": "Out of the Blue",
+    "Directed by": "Dennis Hopper",
+    "Produced by": "Leonard Yakir",
+    "Written by": [
+      "Leonard Yakir",
+      "Gary Jules Juvenat"
+    ],
+    "Starring": [
+      "Linda Manz",
+      "Dennis Hopper",
+      "Sharon Farrell",
+      "Don Gordon",
+      "Raymond Burr"
+    ],
+    "Music by": "Tom Lavin",
+    "Cinematography": "Marc Champion",
+    "Edited by": "Doris Dyck",
+    "Distributed by": "Les Productions Karim (Canada)",
+    "Release date": [
+      "May 5, 1980 ( 1980-05-05 ) (Cannes)"
+    ],
+    "Running time": "93 minutes",
+    "Country": "Canada",
+    "Language": "English"
+  },
+  "Permanent Vacation": {
+    "title": "Permanent Vacation",
+    "Directed by": "Jim Jarmusch",
+    "Produced by": "Jim Jarmusch",
+    "Written by": "Jim Jarmusch",
+    "Starring": "Chris Parker",
+    "Music by": "Jim Jarmusch John Lurie",
+    "Cinematography": "Tom DiCillo James A. Lebovitz",
+    "Edited by": "Jim Jarmusch",
+    "Distributed by": "Cinesthesia",
+    "Release date": [
+      "March 6, 1981 ( 1981-03-06 ) (U.S.)"
+    ],
+    "Running time": "75 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "US$ 12,000"
+  },
+  "The Pilot": {
+    "title": "The Pilot",
+    "Directed by": "Cliff Robertson",
+    "Produced by": "Gregory Earls",
+    "Written by": "Robert P. Davis",
+    "Starring": "Cliff Robertson Diane Baker Frank Converse Gordon MacRae",
+    "Music by": "John Addison",
+    "Cinematography": "Walter Lassally",
+    "Edited by": "Evan A. Lottman",
+    "Distributed by": "Summit Films",
+    "Release date": [
+      "1980 ( 1980 )"
+    ],
+    "Running time": "92 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Popeye": {
+    "title": "Popeye",
+    "Directed by": "Robert Altman",
+    "Produced by": "Robert Evans",
+    "Screenplay by": "Jules Feiffer",
+    "Based on": "Popeye by E. C. Segar",
+    "Starring": "Robin Williams Shelley Duvall",
+    "Music by": "Harry Nilsson",
+    "Cinematography": "Giuseppe Rotunno",
+    "Edited by": "John W. Holmes David A. Simmons",
+    "Production companies": [
+      "Paramount Pictures",
+      "Walt Disney Productions",
+      "Robert Evans Productions",
+      "King Features Entertainment"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (North America)",
+      "(North America)",
+      "Buena Vista International Distribution (International)",
+      "(International)"
+    ],
+    "Release date": [
+      "December 6, 1980 ( 1980-12-06 ) ( Los Angeles )",
+      "December 12, 1980 ( 1980-12-12 ) ( United States )"
+    ],
+    "Running time": "114 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$20 million",
+    "Box office": "$60 million"
+  },
+  "Pray TV": {
+    "title": "Pray TV",
+    "Directed by": "Rick Friedberg",
+    "Produced by": [
+      "Rick Friedberg",
+      "Tina Stern"
+    ],
+    "Written by": [
+      "Nick Castle",
+      "Dick Chudnow",
+      "Rick Friedberg"
+    ],
+    "Starring": [
+      "Dabney Coleman",
+      "Paul Cooper"
+    ],
+    "Music by": "George S. Clinton",
+    "Production company": "ABC Circle Films",
+    "Distributed by": "Filmways Pictures",
+    "Release date": [
+      "1980 ( 1980 )"
+    ],
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Private Benjamin": {
+    "title": "Private Benjamin",
+    "Directed by": "Howard Zieff",
+    "Produced by": "Nancy Meyers Harvey Miller Charles Shyer Goldie Hawn",
+    "Written by": "Nancy Meyers Charles Shyer Harvey Miller",
+    "Starring": "Goldie Hawn Eileen Brennan Armand Assante Robert Webber Sam Wanamaker Barbara Barrie Mary Kay Place Harry Dean Stanton Albert Brooks",
+    "Music by": "Bill Conti Barry De Vorzon",
+    "Cinematography": "David M. Walsh",
+    "Edited by": "Sheldon Kahn",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "October 10, 1980 ( 1980-10-10 )"
+    ],
+    "Running time": "109 minutes",
+    "Country": "United States",
+    "Budget": "$15 million",
+    "Box office": "$69.8 million"
+  },
+  "The Private Eyes": {
+    "title": "The Private Eyes",
+    "Directed by": "Lang Elliott",
+    "Produced by": "Wanda Dell Lang Elliott",
+    "Written by": "Tim Conway John Myhers",
+    "Starring": "Tim Conway Don Knotts Trisha Noble",
+    "Music by": "Peter Matz",
+    "Cinematography": "Jacques Haitkin",
+    "Edited by": "Patrick M. Crawford Fabien D. Tordjmann",
+    "Production company": "The Private Eyes Partners Limited",
+    "Distributed by": "New World Pictures",
+    "Release date": [
+      "April 17, 1980 ( 1980-04-17 )"
+    ],
+    "Running time": "91 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.3 million",
+    "Box office": "$18,942,320 (US)"
+  },
+  "Prom Night": {
+    "title": "Prom Night",
+    "Directed by": "Paul Lynch",
+    "Produced by": "Peter R. Simpson",
+    "Screenplay by": "William Gray",
+    "Story by": "Robert Guza Jr.",
+    "Starring": [
+      "Jamie Lee Curtis",
+      "Leslie Nielsen"
+    ],
+    "Music by": "Paul Zaza Carl Zittrer",
+    "Cinematography": "Robert C. New",
+    "Edited by": "Brian Ravok",
+    "Production company": "Simcom Productions",
+    "Distributed by": "AVCO Embassy Pictures",
+    "Release date": [
+      "July 18, 1980 ( 1980-07-18 ) (U.S.)",
+      "February 25, 2015 ( 2015-02-25 ) (35th Anniversary re-release)"
+    ],
+    "Running time": "92 minutes",
+    "Country": "Canada",
+    "Language": "English",
+    "Budget": "$1.5 million",
+    "Box office": "$14.8 million"
+  },
+  "The Psychotronic Man": {
+    "title": "The Psychotronic Man",
+    "Directed by": "Jack M. Sell",
+    "Produced by": "Peter G. Spelson",
+    "Written by": "Peter G. Spelson",
+    "Starring": "Peter G. Spelson",
+    "Music by": "Tommy Irons",
+    "Cinematography": "Jack M. Sell",
+    "Edited by": "Jack M. Sell",
+    "Distributed by": "International Harmony (US)",
+    "Release date": [
+      "April 23, 1980 ( 1980-04-23 )"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$175,000"
+  },
+  "Raging Bull": {
+    "title": "Raging Bull",
+    "Directed by": "Martin Scorsese",
+    "Produced by": [
+      "Irwin Winkler",
+      "Robert Chartoff"
+    ],
+    "Screenplay by": [
+      "Paul Schrader",
+      "Mardik Martin"
+    ],
+    "Based on": "Raging Bull: My Story by Jake LaMotta Joseph Carter Peter Savage",
+    "Starring": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "Cinematography": "Michael Chapman",
+    "Edited by": "Thelma Schoonmaker",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "November 14, 1980 ( 1980-11-14 ) (New York City)",
+      "December 19, 1980 ( 1980-12-19 ) (United States)"
+    ],
+    "Running time": "129 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$18 million",
+    "Box office": "$23.4 million"
+  },
+  "Raise the Titanic": {
+    "title": "Raise the Titanic",
+    "Directed by": "Jerry Jameson",
+    "Produced by": "William Frye Lord Grade",
+    "Screenplay by": "Adam Kennedy",
+    "Story by": "Eric Hughes (Adaptation)",
+    "Based on": "Raise the Titanic! by Clive Cussler",
+    "Starring": "Jason Robards Richard Jordan David Selby Anne Archer Dirk Blocker Sir Alec Guinness",
+    "Music by": "John Barry",
+    "Cinematography": "Matthew F. Leonetti",
+    "Edited by": "Robert F. Shugrue J. Terry Williams",
+    "Production company": "ITC Entertainment",
+    "Distributed by": "Associated Film Distribution",
+    "Release date": [
+      "1 August 1980 ( 1980-08-01 )"
+    ],
+    "Running time": "114 minutes",
+    "Countries": "United Kingdom United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$7 million"
+  },
+  "Resurrection": {
+    "title": "Resurrection",
+    "Directed by": "Daniel Petrie",
+    "Produced by": "Renee Missel and Howard Rosenman",
+    "Written by": "Lewis John Carlino",
+    "Starring": "Ellen Burstyn Sam Shepard Richard Farnsworth Roberts Blossom Clifford David Pamela Payton-Wright Jeffrey DeMunn Eva Le Gallienne",
+    "Music by": "Maurice Jarre",
+    "Cinematography": "Mario Tosi",
+    "Edited by": "Rita Roland",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "September 26, 1980 ( 1980-09-26 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$3,910,019"
+  },
+  "The Return of the King (1980 film)": {
+    "title": "The Return of the King (1980 film)",
+    "Based on": "The Hobbit and The Return of the King by J. R. R. Tolkien",
+    "Written by": "Romeo Muller",
+    "Directed by": [
+      "Jules Bass",
+      "Arthur Rankin Jr."
+    ],
+    "Starring": [
+      "Orson Bean",
+      "John Huston",
+      "William Conrad",
+      "Roddy McDowall",
+      "Theodore Bikel"
+    ],
+    "Theme music composer": "Glenn Yarbrough",
+    "Composer": "Maury Laws",
+    "Country of origin": [
+      "United States",
+      "Japan"
+    ],
+    "Original language": "English"
+  },
+  "Return of the Secaucus 7": {
+    "title": "Return of the Secaucus 7",
+    "Directed by": "John Sayles",
+    "Produced by": [
+      "Jeffrey Nelson",
+      "William Aydelott"
+    ],
+    "Screenplay by": "John Sayles",
+    "Starring": [
+      "Bruce MacDonald",
+      "Maggie Renzi",
+      "David Strathairn",
+      "Adam LeFevre",
+      "Maggie Cousineau"
+    ],
+    "Music by": "Mason Daring",
+    "Cinematography": "Austin De Besche",
+    "Edited by": "John Sayles",
+    "Production company": "Salsipuedes Productions",
+    "Distributed by": "Libra Films",
+    "Release date": [
+      "September 5, 1980 ( 1980-09-05 ) (United States)"
+    ],
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$60,000 (estimated)",
+    "Box office": "$2 million"
+  },
+  "Roadie": {
+    "title": "Roadie",
+    "Directed by": "Alan Rudolph",
+    "Produced by": "Zalman King Carolyn Pfeiffer John E. Pommer",
+    "Written by": "Big Boy Medlin Michael Ventura Zalman King Alan Rudolph",
+    "Starring": "Meat Loaf Kaki Hunter Art Carney Alice Cooper Blondie Roy Orbison Hank Williams Jr.",
+    "Cinematography": "David Myers",
+    "Edited by": "Tom Walls",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "June 13, 1980 ( 1980-06-13 )"
+    ],
+    "Running time": "105 min.",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$4,226,370"
+  },
+  "Rockshow": {
+    "title": "Rockshow",
+    "Produced by": "Bob Mercer",
+    "Starring": "Paul McCartney Linda McCartney Denny Laine Jimmy McCulloch Joe English",
+    "Music by": "Wings",
+    "Cinematography": "Jack Priestley",
+    "Edited by": "Robin Clarke",
+    "Production company": "MPL Communications",
+    "Distributed by": "Miramax Films",
+    "Release date": "26 November 1980",
+    "Running time": "125 minutes (unedited cut) 102 minutes (edited cut)",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Rough Cut": {
+    "title": "Rough Cut",
+    "Directed by": "Don Siegel",
+    "Produced by": "David Merrick",
+    "Screenplay by": "Larry Gelbart",
+    "Based on": "Touch the Lion's Paw by Derek Lambert",
+    "Starring": [
+      "Burt Reynolds",
+      "Lesley-Anne Down",
+      "David Niven"
+    ],
+    "Music by": "Nelson Riddle",
+    "Cinematography": "Freddie Young",
+    "Edited by": [
+      "Michael J. Duthie",
+      "Douglas Stewart"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "June 19, 1980 ( 1980-06-19 )"
+    ],
+    "Running time": "112 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$16,656,125 (domestic)"
+  },
+  "Running Scared": {
+    "title": "Running Scared",
+    "Produced by": "Paul Glickler",
+    "Written by": "David Odell",
+    "Based on": "A story by Paul Glickler",
+    "Starring": "Ken Wahl Judge Reinhold Annie McEnroe John Saxon Bradford Dillman Pat Hingle Lonny Chapman",
+    "Music by": "Roger Kellaway",
+    "Cinematography": "Willy Kurant Nathaniel Dorsky",
+    "Edited by": "Robert Q. Lovett",
+    "Distributed by": "Thorn EMI (UK) GoodTimes Entertainment",
+    "Release date": [
+      "November 17, 1980 ( 1980-11-17 )"
+    ],
+    "Running time": "96 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Saturn 3": {
+    "title": "Saturn 3",
+    "Directed by": [
+      "Stanley Donen",
+      "John Barry (replaced)"
+    ],
+    "Produced by": "Stanley Donen",
+    "Screenplay by": "Martin Amis",
+    "Story by": "John Barry",
+    "Starring": [
+      "Farrah Fawcett",
+      "Kirk Douglas",
+      "Harvey Keitel"
+    ],
+    "Music by": "Elmer Bernstein",
+    "Cinematography": "Billy Williams",
+    "Edited by": "Richard Marden",
+    "Production company": "ITC Entertainment",
+    "Distributed by": "ITC Film Distribution",
+    "Release date": [
+      "15 February 1980 ( 1980-02-15 ) (US)",
+      "8 May 1980 ( 1980-05-08 ) (UK)"
+    ],
+    "Running time": "88 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$9 million (US)"
+  },
+  "Schizoid": {
+    "title": "Schizoid",
+    "Directed by": "David Paulsen",
+    "Produced by": [
+      "Menahem Golan",
+      "Yoram Globus"
+    ],
+    "Written by": "David Paulsen",
+    "Starring": [
+      "Klaus Kinski",
+      "Marianna Hill",
+      "Craig Wasson"
+    ],
+    "Music by": "Craig Hundley",
+    "Cinematography": "Norman Leigh",
+    "Edited by": [
+      "Robert Fitzgerald",
+      "Dick Brummer"
+    ],
+    "Production company": "Golan-Globus Productions",
+    "Distributed by": "Cannon Group",
+    "Release date": [
+      "September 5, 1980 ( 1980-09-05 )"
+    ],
+    "Running time": "89 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$350,000"
+  },
+  "Scruples (TV miniseries)": {
+    "title": "Scruples (TV miniseries)",
+    "Genre": "Drama",
+    "Written by": "Judith Krantz (novel) James Lee (teleplay)",
+    "Directed by": "Alan J. Levi",
+    "Starring": "Lindsay Wagner Barry Bostwick Marie-France Pisier Efram Zimbalist, Jr. Kim Cattrall Gene Tierney Nick Mancuso Gavin MacLeod",
+    "Composer": "Charles Bernstein",
+    "Country of origin": "United States",
+    "Original language": "English",
+    "No. of episodes": "3 x 90 min."
+  },
+  "The Sea Wolves": {
+    "title": "The Sea Wolves",
+    "Directed by": "Andrew V. McLaglen",
+    "Produced by": "Euan Lloyd",
+    "Screenplay by": "Reginald Rose",
+    "Based on": "Boarding Party 1978 novel by James Leasor",
+    "Starring": "Gregory Peck Roger Moore David Niven Trevor Howard Barbara Kellerman Patrick Macnee",
+    "Music by": "Roy Budd",
+    "Cinematography": "Tony Imi",
+    "Production companies": "Lorimar Productions Richmond Light Horse Productions Varius Entertainment Trading A.G.",
+    "Distributed by": "Rank Film Distributors Paramount Pictures",
+    "Release date": "3 July 1980",
+    "Running time": "120 minutes",
+    "Countries": "United Kingdom United States Switzerland",
+    "Language": "English",
+    "Box office": "$220,181"
+  },
+  "Seems Like Old Times": {
+    "title": "Seems Like Old Times",
+    "Directed by": "Jay Sandrich",
+    "Produced by": "Margaret Booth Roger M. Rothstein Ray Stark",
+    "Written by": "Neil Simon",
+    "Starring": "Goldie Hawn Chevy Chase Charles Grodin Robert Guillaume",
+    "Music by": "Marvin Hamlisch",
+    "Cinematography": "David M. Walsh",
+    "Edited by": "Michael A. Stevenson",
+    "Production company": "Rastar",
+    "Distributed by": "Columbia Pictures",
+    "Release date": "December 19, 1980",
+    "Running time": "100 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$44 million"
+  },
+  "Serial": {
+    "title": "Serial",
+    "Produced by": "Sidney Beckerman",
+    "Written by": "Rich Eustis Michael Elias",
+    "Starring": "Martin Mull Tuesday Weld Jennifer McAllister Sally Kellerman Bill Macy Pamela Bellwood Peter Bonerz Christopher Lee",
+    "Music by": "Lalo Schifrin",
+    "Cinematography": "Rexford L. Metz",
+    "Edited by": "John W. Wheeler",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "March 28, 1980 ( 1980-03-28 )"
+    ],
+    "Running time": "90 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$9,870,727"
+  },
+  "S*H*E*": {
+    "title": "S*H*E*",
+    "Directed by": "Robert Michael Lewis",
+    "Produced by": "Martin Bregman",
+    "Written by": "Richard Maibaum",
+    "Starring": "Cornelia Sharpe Omar Sharif",
+    "Music by": "Michael Kamen",
+    "Cinematography": "Jules Brenner",
+    "Edited by": "Michael Economou",
+    "Distributed by": "Nb productions",
+    "Release date": [
+      "February 23, 1980 ( 1980-02-23 )"
+    ],
+    "Running time": "100 minutes",
+    "Countries": "West Germany United States",
+    "Language": "English"
+  },
+  "The Shining": {
+    "title": "The Shining",
+    "Directed by": "Stanley Kubrick",
+    "Produced by": "Stanley Kubrick",
+    "Screenplay by": [
+      "Stanley Kubrick",
+      "Diane Johnson"
+    ],
+    "Based on": "The Shining by Stephen King",
+    "Starring": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Scatman Crothers",
+      "Danny Lloyd"
+    ],
+    "Music by": [
+      "Wendy Carlos",
+      "Rachel Elkind"
+    ],
+    "Cinematography": "John Alcott",
+    "Edited by": "Ray Lovejoy",
+    "Production companies": [
+      "The Producer Circle Company",
+      "Peregrine Productions",
+      "Hawk Films"
+    ],
+    "Distributed by": [
+      "Warner Bros. (United States)",
+      "Columbia - EMI -Warner Distributors (United Kingdom)"
+    ],
+    "Release date": [
+      "May 23, 1980 ( 1980-05-23 ) (United States)",
+      "October 2, 1980 ( 1980-10-02 ) (United Kingdom)"
+    ],
+    "Running time": [
+      "146 minutes (premiere)",
+      "144 minutes (American)",
+      "119 minutes (European)"
+    ],
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$19 million",
+    "Box office": "$47 million"
+  },
+  "The Silent Scream": {
+    "title": "The Silent Scream",
+    "Directed by": "Denny Harris",
+    "Written by": [
+      "Ken Wheat",
+      "Jim Wheat",
+      "Wallace E. Bennett",
+      "Denny Harris"
+    ],
+    "Starring": [
+      "Rebecca Balding",
+      "Barbara Steele",
+      "Cameron Mitchell",
+      "Yvonne De Carlo"
+    ],
+    "Music by": "Roger Kellaway",
+    "Cinematography": [
+      "Michael D. Murphy",
+      "David Shore"
+    ],
+    "Edited by": "Edward Salier",
+    "Production company": "Speculator Productions",
+    "Distributed by": "American Cinema Releasing",
+    "Release date": [
+      "November 15, 1979 ( 1979-11-15 )"
+    ],
+    "Running time": "87 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$7.9 million"
+  },
+  "Simon": {
+    "title": "Simon",
+    "Directed by": "Marshall Brickman",
+    "Produced by": "Martin Bregman",
+    "Screenplay by": "Marshall Brickman",
+    "Story by": "Marshall Brickman Thomas Baum",
+    "Starring": "Alan Arkin Madeline Kahn Austin Pendleton Judy Graubart William Finley Wallace Shawn Jayant Max Wright",
+    "Music by": "Stanley Silverman",
+    "Cinematography": "Adam Holender",
+    "Edited by": "Nina Feinberg",
+    "Production company": "Orion Pictures",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "February 1980 ( 1980-02 )"
+    ],
+    "Running time": "97 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$6,000,000"
+  },
+  "A Small Circle of Friends": {
+    "title": "A Small Circle of Friends",
+    "Directed by": "Rob Cohen",
+    "Produced by": "Tim Zinnemann",
+    "Written by": "Ezra Sacks",
+    "Starring": "Brad Davis Karen Allen Jameson Parker",
+    "Music by": "Jim Steinman",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "March 12, 1980 ( 1980-03-12 )"
+    ],
+    "Running time": "113 mins",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$766,740"
+  },
+  "Smokey and the Bandit II": {
+    "title": "Smokey and the Bandit II",
+    "Directed by": "Hal Needham",
+    "Produced by": "Mort Engelberg",
+    "Screenplay by": "Jerry Belson Brock Yates",
+    "Story by": "Michael Kane",
+    "Based on": [
+      "Hal Needham",
+      "Robert L. Levy"
+    ],
+    "Starring": [
+      "Burt Reynolds",
+      "Jackie Gleason",
+      "Jerry Reed",
+      "Dom DeLuise",
+      "Sally Field",
+      "Paul Williams",
+      "Pat McCormick"
+    ],
+    "Music by": "Snuff Garrett",
+    "Cinematography": "Michael Butler",
+    "Edited by": "Donn Cambern William Gordean",
+    "Production company": "Rastar",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "August 15, 1980 ( 1980-08-15 )"
+    ],
+    "Running time": "101 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$17 million [ better source needed ]",
+    "Box office": "$66.1 million"
+  },
+  "Somewhere in Time": {
+    "title": "Somewhere in Time",
+    "Directed by": "Jeannot Szwarc",
+    "Produced by": [
+      "Stephen Deutsch",
+      "Ray Stark (uncredited)"
+    ],
+    "Screenplay by": "Richard Matheson",
+    "Based on": "Bid Time Return by Richard Matheson",
+    "Starring": [
+      "Christopher Reeve",
+      "Jane Seymour",
+      "Christopher Plummer",
+      "Teresa Wright"
+    ],
+    "Music by": "John Barry",
+    "Cinematography": "Isidore Mankofsky",
+    "Edited by": "Jeff Gourson",
+    "Production company": "Rastar",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million",
+    "Box office": "$9.7 million"
+  },
+  "The Empire Strikes Back": {
+    "title": "The Empire Strikes Back",
+    "Directed by": "Irvin Kershner",
+    "Produced by": "Gary Kurtz",
+    "Screenplay by": [
+      "Leigh Brackett",
+      "Lawrence Kasdan"
+    ],
+    "Story by": "George Lucas",
+    "Starring": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels",
+      "David Prowse",
+      "Kenny Baker",
+      "Peter Mayhew",
+      "Frank Oz"
+    ],
+    "Music by": "John Williams",
+    "Cinematography": "Peter Suschitzky",
+    "Edited by": "Paul Hirsch",
+    "Production company": "Lucasfilm Ltd.",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "May 17, 1980 ( 1980-05-17 ) ( Kennedy Center )",
+      "May 21, 1980 ( 1980-05-21 ) (United States)"
+    ],
+    "Running time": "124 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$33 million",
+    "Box office": "$550.9 million"
+  },
+  "Stardust Memories": {
+    "title": "Stardust Memories",
+    "Directed by": "Woody Allen",
+    "Produced by": "Robert Greenhut Charles H. Joffe Jack Rollins",
+    "Written by": "Woody Allen",
+    "Starring": "Woody Allen Charlotte Rampling Jessica Harper Marie-Christine Barrault Tony Roberts",
+    "Cinematography": "Gordon Willis",
+    "Edited by": "Susan E. Morse",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "September 26, 1980 ( 1980-09-26 )"
+    ],
+    "Running time": "88 minutes",
+    "Country": "United States",
+    "Languages": "English French Persian",
+    "Budget": "$10 million",
+    "Box office": "$10.4 million"
+  },
+  "Stir Crazy": {
+    "title": "Stir Crazy",
+    "Directed by": "Sidney Poitier",
+    "Produced by": "Hannah Weinstein",
+    "Written by": "Bruce Jay Friedman",
+    "Starring": [
+      "Gene Wilder",
+      "Richard Pryor"
+    ],
+    "Music by": "Tom Scott",
+    "Cinematography": "Fred Schuler",
+    "Edited by": "Harry Keller",
+    "Production company": "Columbia Pictures",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "December 12, 1980 ( 1980-12-12 )"
+    ],
+    "Running time": "111 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$101 million (USA)"
+  },
+  "The Stunt Man": {
+    "title": "The Stunt Man",
+    "Directed by": "Richard Rush",
+    "Produced by": "Richard Rush",
+    "Screenplay by": "Lawrence B. Marcus Richard Rush",
+    "Based on": "The Stunt Man by Paul Brodeur",
+    "Starring": "Peter O'Toole Steve Railsback Barbara Hershey",
+    "Music by": "Dominic Frontiere",
+    "Cinematography": "Mario Tosi",
+    "Edited by": "Caroline Biggerstaff Jack Hofstra",
+    "Production company": "Melvin Simon Productions",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "June 27, 1980 ( 1980-06-27 )"
+    ],
+    "Running time": "131 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3.5 million",
+    "Box office": "$7,068,886"
+  },
+  "Sunday Lovers": {
+    "title": "Sunday Lovers",
+    "Directed by": "Bryan Forbes Édouard Molinaro Gene Wilder Dino Risi",
+    "Produced by": "Leo L. Fuchs",
+    "Written by": "Leslie Bricusse segment \"An Englishman's Home\" Agenore Incrocci segment \"Armando's Notebook\" Furio Scarpelli segment \"Armando's Notebook\" Francis Veber segment \"The French Method\" Gene Wilder segment \"Skippy\"",
+    "Starring": "Gene Wilder Roger Moore Kathleen Quinlan Lino Ventura Ugo Tognazzi Priscilla Barnes",
+    "Music by": "Manuel De Sica",
+    "Cinematography": "Gerald Hirschfeld",
+    "Edited by": "Alberto Gallitti",
+    "Production company": "Metro-Goldwyn-Mayer",
+    "Distributed by": "United Artists (United States/Canada) Cinema International Corporation (International)",
+    "Release date": [
+      "October 31, 1980 ( 1980-10-31 )"
+    ],
+    "Running time": "125 min",
+    "Language": "English",
+    "Box office": "$621,235"
+  },
+  "Super Fuzz": {
+    "title": "Super Fuzz"
+  },
+  "Superman II": {
+    "title": "Superman II",
+    "Directed by": "Richard Lester [a]",
+    "Produced by": "Pierre Spengler",
+    "Screenplay by": [
+      "Mario Puzo",
+      "David Newman",
+      "Leslie Newman"
+    ],
+    "Story by": "Mario Puzo",
+    "Based on": [
+      "Jerry Siegel",
+      "Joe Shuster"
+    ],
+    "Starring": [
+      "Gene Hackman",
+      "Christopher Reeve",
+      "Ned Beatty",
+      "Jackie Cooper",
+      "Sarah Douglas",
+      "Margot Kidder",
+      "Jack O'Halloran",
+      "Valerie Perrine",
+      "Susannah York",
+      "Clifton James",
+      "E. G. Marshall",
+      "Marc McClure",
+      "Terence Stamp"
+    ],
+    "Music by": "Ken Thorne",
+    "Cinematography": "Robert Paynter",
+    "Edited by": "John Victor-Smith",
+    "Production companies": [
+      "Dovemead Ltd.",
+      "International Film Production"
+    ],
+    "Distributed by": [
+      "Columbia – EMI – Warner Distributors (United Kingdom)",
+      "Warner Bros. (United States)"
+    ],
+    "Release date": [
+      "December 4, 1980 ( 1980-12-04 ) (Australia)",
+      "April 9, 1981 ( 1981-04-09 ) (United Kingdom)",
+      "June 19, 1981 ( 1981-06-19 ) (United States)"
+    ],
+    "Running time": "127 minutes",
+    "Countries": "United Kingdom United States",
+    "Language": "English",
+    "Budget": "$54 million",
+    "Box office": "$190.4 million"
+  },
+  "Tell Me a Riddle": {
+    "title": "Tell Me a Riddle",
+    "Directed by": "Lee Grant",
+    "Produced by": "Mindy Affrime Rachel Lyon Susan O'Connell",
+    "Written by": "Joyce Eliason Alev Lytle",
+    "Starring": "Melvyn Douglas Lila Kedrova Brooke Adams Peter Coyote Zalman King",
+    "Music by": "Shalom Sherman Sheldon Shkolnik",
+    "Cinematography": "Fred Murphy",
+    "Edited by": "Suzanne Pettit",
+    "Distributed by": "Filmways Pictures",
+    "Release date": "12/15/1980",
+    "Running time": "90 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Terror Train": {
+    "title": "Terror Train",
+    "Directed by": "Roger Spottiswoode",
+    "Produced by": "Harold Greenberg",
+    "Written by": "T. Y. Drake",
+    "Starring": "Ben Johnson Jamie Lee Curtis Hart Bochner",
+    "Music by": "John Mills-Cockell",
+    "Cinematography": "John Alcott",
+    "Edited by": "Anne Henderson",
+    "Production companies": "Astral Bellevue Pathé Sandy Howard Productions Triple T Productions",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "October 3, 1980 ( 1980-10-03 )"
+    ],
+    "Running time": "97 minutes",
+    "Country": "Canada",
+    "Language": "English",
+    "Budget": "$3.5 million",
+    "Box office": "$8 million"
+  },
+  "Those Lips, Those Eyes": {
+    "title": "Those Lips, Those Eyes",
+    "Directed by": "Michael Pressman",
+    "Produced by": "Herb Jaffe Steven-Charles Jaffe Michael Pressman Edward A. Teets",
+    "Written by": "David Shaber",
+    "Starring": "Frank Langella Glynnis O'Connor Tom Hulce",
+    "Music by": "Michael Small",
+    "Cinematography": "Bobby Byrne",
+    "Edited by": "Millie Moore",
+    "Distributed by": "United Artists",
+    "Release date": "August 15, 1980",
+    "Running time": "105 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$804,713"
+  },
+  "Times Square": {
+    "title": "Times Square",
+    "Directed by": "Allan Moyle",
+    "Produced by": "Jacob Brackman Robert Stigwood",
+    "Screenplay by": "Jacob Brackman",
+    "Story by": "Allan Moyle Leanne Ungar",
+    "Starring": "Tim Curry Trini Alvarado Robin Johnson Peter Coffield Herbert Berghof David Margulies Anna Maria Horsford",
+    "Music by": "Blue Weaver",
+    "Cinematography": "James A. Contner",
+    "Production companies": "EMI Films Robert Stigwood Organisation",
+    "Distributed by": "Associated Film Distribution",
+    "Release date": "October 17, 1980",
+    "Running time": "111 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5 million",
+    "Box office": "$1.4 million"
+  },
+  "To All a Goodnight": {
+    "title": "To All a Goodnight",
+    "Directed by": "David Hess",
+    "Produced by": "Sandy Cobe Jay Rasumny",
+    "Written by": "Alex Rebar",
+    "Starring": "Jennifer Runyon Forrest Swanson Linda Gentile",
+    "Music by": "Richard Tufo",
+    "Cinematography": "Bil Godsey",
+    "Edited by": "William J. Waters",
+    "Production companies": "Four Features Partners Intercontinental Releasing Corporation (IRC)",
+    "Distributed by": "Intercontinental Releasing Corporation (IRC)",
+    "Release date": "January 30, 1980",
+    "Running time": "87 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Tom Horn": {
+    "title": "Tom Horn",
+    "Directed by": "William Wiard",
+    "Produced by": "Fred Weintraub",
+    "Screenplay by": "Thomas McGuane Bud Shrake",
+    "Starring": "Steve McQueen Linda Evans Richard Farnsworth",
+    "Music by": "Ernest Gold",
+    "Cinematography": "John A. Alonzo",
+    "Edited by": "George Grenville",
+    "Production companies": "First Artists Solar Productions",
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "March 28, 1980 ( 1980-03-28 )"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$9 million"
+  },
+  "The Unseen": {
+    "title": "The Unseen",
+    "Directed by": "Danny Steinmann",
+    "Produced by": "Anthony B. Unger",
+    "Screenplay by": "Danny Steinmann",
+    "Story by": [
+      "Danny Steinmann",
+      "Stan Winston",
+      "Thomas R. Burman"
+    ],
+    "Starring": [
+      "Stephen Furst",
+      "Sydney Lassick",
+      "Barbara Bach",
+      "Karen Lamm"
+    ],
+    "Music by": "Michael J. Lewis",
+    "Cinematography": "Roberto A. Quezada",
+    "Edited by": "Jonathon Braun",
+    "Production company": "Triune Films (II)",
+    "Distributed by": "World Northal",
+    "Release date": [
+      "June 5, 1981 ( 1981-06-05 ) ( Tucson, Arizona )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2 million"
+  },
+  "Up the Academy": {
+    "title": "Up the Academy",
+    "Directed by": "Robert Downey Sr.",
+    "Produced by": "Danton Rissner Marvin Worth",
+    "Written by": "Tom Patchett Jay Tarses",
+    "Starring": "Wendell Brown Tommy Citera Ron Leibman Harry Teinowitz Hutch Parker Ralph Macchio Tom Poston King Coleman Barbara Bach",
+    "Music by": "Jeff Rawluk",
+    "Cinematography": "Harry Stradling Jr.",
+    "Edited by": "Bud Molin Ron Spang",
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "June 6, 1980 ( 1980-06-06 )"
+    ],
+    "Running time": "87 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$10 million"
+  },
+  "Urban Cowboy": {
+    "title": "Urban Cowboy",
+    "Directed by": "James Bridges",
+    "Produced by": "Irving Azoff Robert Evans C. O. Erickson (executive producer)",
+    "Screenplay by": "James Bridges Aaron Latham",
+    "Story by": "Aaron Latham",
+    "Starring": "John Travolta Debra Winger Scott Glenn Barry Corbin Madolyn Smith",
+    "Music by": "Ralph Burns",
+    "Cinematography": "Reynaldo Villalobos",
+    "Edited by": "David Rawlins",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "June 6, 1980 ( 1980-06-06 )"
+    ],
+    "Running time": "135 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$53.3 million"
+  },
+  "Used Cars": {
+    "title": "Used Cars",
+    "Directed by": "Robert Zemeckis",
+    "Produced by": "Bob Gale",
+    "Written by": [
+      "Robert Zemeckis",
+      "Bob Gale"
+    ],
+    "Starring": [
+      "Kurt Russell",
+      "Jack Warden",
+      "Gerrit Graham",
+      "Deborah Harmon"
+    ],
+    "Music by": "Patrick Williams",
+    "Cinematography": "Donald M. Morgan",
+    "Edited by": "Michael Kahn",
+    "Production company": "Columbia Pictures",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "July 11, 1980 ( 1980-07-11 )"
+    ],
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$8 million",
+    "Box office": "$11.7 million"
+  },
+  "The Watcher in the Woods": {
+    "title": "The Watcher in the Woods",
+    "Directed by": [
+      "John Hough",
+      "Vincent McEveety (uncredited)"
+    ],
+    "Produced by": "Ron Miller",
+    "Screenplay by": [
+      "Brian Clemens",
+      "Harry Spalding",
+      "Rosemary Anne Sisson"
+    ],
+    "Based on": "A Watcher in the Woods by Florence Engel Randall",
+    "Starring": [
+      "Bette Davis",
+      "Carroll Baker",
+      "David McCallum",
+      "Lynn-Holly Johnson",
+      "Kyle Richards"
+    ],
+    "Music by": "Stanley Myers",
+    "Cinematography": "Alan Hume",
+    "Edited by": "Geoffrey Foot",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": [
+      "April 17, 1980 ( 1980-04-17 ) (New York City)",
+      "October 9, 1981 ( 1981-10-09 ) (U.S.)"
+    ],
+    "Running time": "84 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$9 million",
+    "Box office": "$5 million"
+  },
+  "When Time Ran Out...": {
+    "title": "When Time Ran Out...",
+    "Directed by": "James Goldstone",
+    "Produced by": "Irwin Allen",
+    "Written by": [
+      "Carl Foreman",
+      "Stirling Silliphant"
+    ],
+    "Based on": "The Day the World Ended by Gordon Thomas",
+    "Starring": [
+      "Paul Newman",
+      "Jacqueline Bisset",
+      "William Holden",
+      "Edward Albert",
+      "Red Buttons",
+      "Barbara Carrera",
+      "Valentina Cortesa",
+      "Veronica Hamel",
+      "Alex Karras",
+      "Burgess Meredith",
+      "Ernest Borgnine",
+      "James Franciscus"
+    ],
+    "Music by": "Lalo Schifrin",
+    "Cinematography": "Fred J. Koenekamp",
+    "Edited by": [
+      "Edward Biery",
+      "Freeman A. Davies"
+    ],
+    "Distributed by": "Warner Bros.",
+    "Release date": [
+      "March 28, 1980 ( 1980-03-28 )"
+    ],
+    "Running time": "121 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$20 million",
+    "Box office": "$3.8 million"
+  },
+  "Where the Buffalo Roam": {
+    "title": "Where the Buffalo Roam",
+    "Directed by": "Art Linson",
+    "Produced by": "Art Linson",
+    "Screenplay by": "John Kaye",
+    "Based on": "\"The Banshee Screams for Buffalo Meat\" and \" Strange Rumblings in Aztlan \" by Hunter S. Thompson",
+    "Starring": "Bill Murray Peter Boyle Bruno Kirby René Auberjonois",
+    "Music by": "Neil Young",
+    "Cinematography": "Tak Fujimoto",
+    "Edited by": "Christopher Greenbury",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "April 25, 1980 ( 1980-04-25 )"
+    ],
+    "Running time": "99 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$6,659,377"
+  },
+  "Wholly Moses!": {
+    "title": "Wholly Moses!",
+    "Directed by": "Gary Weis",
+    "Produced by": "Freddie Fields",
+    "Written by": "Guy Thomas",
+    "Starring": "Dudley Moore Laraine Newman James Coco Paul Sand Jack Gilford Dom DeLuise John Houseman Madeline Kahn David L. Lander Richard Pryor John Ritter",
+    "Music by": "Patrick Williams",
+    "Cinematography": "Frank Stanley",
+    "Edited by": "Sidney Levin",
+    "Color process": "Metrocolor",
+    "Production company": "Columbia Pictures",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "June 13, 1980 ( 1980-06-13 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$12 million\n  gross            = $14,155,617"
+  },
+  "Why Would I Lie?": {
+    "title": "Why Would I Lie?",
+    "Directed by": "Larry Peerce",
+    "Produced by": "Pancho Kohner",
+    "Screenplay by": "Peter Stone",
+    "Based on": "The Fabricator by Hollis Hodges",
+    "Starring": "Treat Williams Lisa Eichhorn Gabriel Macht Susan Heldfond Anne Byrne Valerie Curtin Jocelyn Brando Nicolas Coster Severn Darden Sonny Davis",
+    "Music by": "Charles Fox",
+    "Cinematography": "Gerald Hirschfeld",
+    "Edited by": "John C. Howard",
+    "Production company": "Metro-Goldwyn-Mayer",
+    "Distributed by": "United Artists (United States/Canada) Cinema International Corporation (International)",
+    "Release date": [
+      "August 10, 1980 ( 1980-08-10 )"
+    ],
+    "Running time": "105 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$1,175,855"
+  },
+  "Willie & Phil": {
+    "title": "Willie & Phil",
+    "Directed by": "Paul Mazursky",
+    "Produced by": "Paul Mazursky",
+    "Written by": "Paul Mazursky",
+    "Starring": "Michael Ontkean Margot Kidder Ray Sharkey",
+    "Music by": "Claude Bolling",
+    "Cinematography": "Sven Nykvist",
+    "Edited by": "Donn Cambern",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "August 15, 1980 ( 1980-08-15 )"
+    ],
+    "Running time": "115 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$5.5 million",
+    "Box office": "$4,400,000"
+  },
+  "Windows": {
+    "title": "Windows",
+    "Directed by": "Gordon Willis",
+    "Produced by": "Mike Lobell",
+    "Written by": "Barry Siegel",
+    "Starring": "Talia Shire Joseph Cortese Elizabeth Ashley",
+    "Music by": "Ennio Morricone",
+    "Cinematography": "Gordon Willis",
+    "Edited by": "Barry Malkin",
+    "Production company": "Mike Lobell Productions",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "January 18, 1980 ( 1980-01-18 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2,128,395"
+  },
+  "Witches' Brew": {
+    "title": "Witches' Brew",
+    "Directed by": "Richard Shorr Herbert L. Strock (additional sequences)",
+    "Produced by": "Donna Ashbrook",
+    "Written by": "Syd Dutton Richard Shorr",
+    "Starring": "Teri Garr Richard Benjamin Lana Turner",
+    "Music by": "John Carl Parker",
+    "Cinematography": "Norman Gerard",
+    "Edited by": "Herbert L. Strock",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "October 31, 1980 ( 1980-10-31 )"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English"
+  },
+  "Without Warning": {
+    "title": "Without Warning",
+    "Directed by": "Greydon Clark",
+    "Produced by": "Greydon Clark",
+    "Written by": [
+      "Lyn Freeman",
+      "Daniel Grodnik",
+      "Ben Nett",
+      "Steve Mathis"
+    ],
+    "Starring": [
+      "Jack Palance",
+      "Martin Landau",
+      "Tarah Nutter",
+      "Christopher S. Nelson"
+    ],
+    "Music by": "Dan Wyman",
+    "Cinematography": "Dean Cundey",
+    "Edited by": "Curtis Burch",
+    "Production companies": [
+      "World Amusement Partnership #106",
+      "Filmways, Inc."
+    ],
+    "Distributed by": "Filmways Pictures",
+    "Release date": [
+      "19 September 1980 ( 1980-09-19 ) (Los Angeles)",
+      "26 September 1980 ( 1980-09-26 ) (New York)"
+    ],
+    "Running time": "89 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$150,000"
+  },
+  "Xanadu": {
+    "title": "Xanadu",
+    "Directed by": "Robert Greenwald",
+    "Produced by": [
+      "Lawrence Gordon"
+    ],
+    "Written by": [
+      "Richard Christian Danus",
+      "Marc Reid Rubel"
+    ],
+    "Starring": [
+      "Olivia Newton-John",
+      "Gene Kelly",
+      "Michael Beck"
+    ],
+    "Music by": [
+      "Barry De Vorzon",
+      "Electric Light Orchestra"
+    ],
+    "Cinematography": "Victor J. Kemper",
+    "Edited by": "Dennis Virkler",
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "August 8, 1980 ( 1980-08-08 )"
+    ],
+    "Running time": "96 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$20 million",
+    "Box office": "$23 million"
+  }
+}
