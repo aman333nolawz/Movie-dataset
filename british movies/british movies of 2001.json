@@ -1,0 +1,878 @@
+{
+  "The 51st State": {
+    "title": "The 51st State",
+    "Directed by": "Ronny Yu",
+    "Produced by": [
+      "David Pupkewitz",
+      "Malcolm Kohll",
+      "Andras Hamori",
+      "Mark Aldridge"
+    ],
+    "Written by": "Stel Pavlou",
+    "Starring": [
+      "Samuel L. Jackson",
+      "Robert Carlyle",
+      "Emily Mortimer",
+      "Sean Pertwee",
+      "Ricky Tomlinson",
+      "Rhys Ifans",
+      "Stephen Walters",
+      "Meat Loaf"
+    ],
+    "Music by": [
+      "Headrillaz",
+      "Casper Kedros",
+      "Darius Kedros"
+    ],
+    "Cinematography": "Poon Hang-Sang",
+    "Edited by": "David Wu",
+    "Distributed by": [
+      "Momentum Pictures (United Kingdom)",
+      "Alliance Atlantis (Canada)"
+    ],
+    "Release date": [
+      "7 December 2001 ( 2001-12-07 )"
+    ],
+    "Running time": "92 minutes",
+    "Countries": [
+      "United Kingdom",
+      "Canada"
+    ],
+    "Budget": "$27 million",
+    "Box office": "$12.9 million"
+  },
+  "Another Life": {
+    "title": "Another Life",
+    "Directed by": "Philip Goodhew",
+    "Produced by": "Chris Craib Lora Fox Gamble",
+    "Written by": "Philip Goodhew",
+    "Starring": "Natasha Little Nick Moran Ioan Gruffudd Imelda Staunton",
+    "Music by": "James McConnel",
+    "Cinematography": "Simon Archer",
+    "Edited by": "Jamie Trevill",
+    "Release date": [
+      "1 February 2001 ( 2001-02-01 ) (Singapore)"
+    ],
+    "Running time": "101 minutes",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Back to the Secret Garden": {
+    "title": "Back to the Secret Garden",
+    "Directed by": "Michael Tuchner",
+    "Starring": "Camilla Belle Joan Plowright Aled Roberts Cherie Lunghi Leigh Lawson",
+    "Theme music composer": "Allyn Ferguson",
+    "Country of origin": "United Kingdom",
+    "Original language": "English"
+  },
+  "Beginner's Luck": {
+    "title": "Beginner's Luck",
+    "Written by": "James Callis Nick Cohen",
+    "Starring": "Julie Delpy Steven Berkoff Christopher Cazenove Fenella Fielding",
+    "Distributed by": "Guerilla Films",
+    "Release date": [
+      "18 November 2001 ( 2001-11-18 ) (London Film Festival)",
+      "21 June 2002 ( 2002-06-21 )"
+    ],
+    "Running time": "84 minutes",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Birthday Girl": {
+    "title": "Birthday Girl",
+    "Directed by": "Jez Butterworth",
+    "Produced by": [
+      "Steve Butterworth",
+      "Diana Phillips"
+    ],
+    "Written by": [
+      "Tom Butterworth",
+      "Jez Butterworth"
+    ],
+    "Starring": [
+      "Nicole Kidman",
+      "Ben Chaplin"
+    ],
+    "Music by": "Stephen Warbeck",
+    "Cinematography": "Oliver Stapleton",
+    "Edited by": "Christopher Tellefsen",
+    "Production companies": [
+      "HAL Films",
+      "FilmFour Productions"
+    ],
+    "Distributed by": [
+      "Miramax Films (United States)",
+      "FilmFour Distributors (United Kingdom)"
+    ],
+    "Release date": [
+      "6 September 2001 ( 2001-09-06 ) ( Venice )",
+      "1 February 2002 ( 2002-02-01 ) (United States)",
+      "28 June 2002 ( 2002-06-28 ) (United Kingdom)"
+    ],
+    "Running time": "93 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Languages": [
+      "English",
+      "Russian"
+    ],
+    "Budget": "$13 million",
+    "Box office": "$16.2 million"
+  },
+  "Blow Dry": {
+    "title": "Blow Dry",
+    "Directed by": "Paddy Breathnach",
+    "Written by": "Simon Beaufoy",
+    "Starring": [
+      "Alan Rickman",
+      "Natasha Richardson",
+      "Rachel Griffiths",
+      "Rachael Leigh Cook",
+      "Josh Hartnett",
+      "Bill Nighy",
+      "Rosemary Harris",
+      "Heidi Klum"
+    ],
+    "Cinematography": "Cian de Buitléar",
+    "Edited by": "Tony Lawson",
+    "Production companies": "Mirage Entertainment Intermedia Films IMF Internationale Medien und Film GmbH & Co. Produktions KG",
+    "Distributed by": "Miramax Films Intermedia Films",
+    "Release date": [
+      "March 7, 2001 ( 2001-03-07 ) (United States)",
+      "March 30, 2001 ( 2001-03-30 ) (United Kingdom)"
+    ],
+    "Running time": "94 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom",
+      "Germany"
+    ],
+    "Language": "English",
+    "Box office": "USD $830,286"
+  },
+  "Bride of the Wind": {
+    "title": "Bride of the Wind",
+    "Directed by": "Bruce Beresford",
+    "Produced by": "Margit Bimler Gerald Green Frank Hübner Evzen Kolar Lawrence Levy",
+    "Written by": "Marilyn Levy",
+    "Starring": "Sarah Wynter Jonathan Pryce Vincent Perez Simon Verhoeven",
+    "Music by": "Stephen Endelman",
+    "Cinematography": "Peter James",
+    "Edited by": "Timothy Wellburn",
+    "Distributed by": "Paramount Classics",
+    "Release date": [
+      "8 June 2001 ( 2001-06-08 ) (US)"
+    ],
+    "Running time": "99 minutes",
+    "Countries": "United Kingdom Germany Austria",
+    "Language": "English",
+    "Box office": "$419,414"
+  },
+  "Bridget Jones's Diary": {
+    "title": "Bridget Jones's Diary",
+    "Directed by": "Sharon Maguire",
+    "Produced by": [
+      "Tim Bevan",
+      "Eric Fellner",
+      "Jonathan Cavendish"
+    ],
+    "Screenplay by": [
+      "Richard Curtis",
+      "Andrew Davies",
+      "Helen Fielding"
+    ],
+    "Based on": "Bridget Jones's Diary by Helen Fielding",
+    "Starring": [
+      "Renée Zellweger",
+      "Colin Firth",
+      "Hugh Grant",
+      "Jim Broadbent",
+      "Gemma Jones"
+    ],
+    "Music by": "Patrick Doyle",
+    "Cinematography": "Stuart Dryburgh",
+    "Edited by": "Martin Walsh",
+    "Production companies": [
+      "Universal Pictures",
+      "Little Bird",
+      "StudioCanal",
+      "Working Title Films"
+    ],
+    "Distributed by": [
+      "Universal Pictures (International; through United International Pictures )",
+      "Miramax Films (United States)",
+      "Mars Distribution (France)"
+    ],
+    "Release date": [
+      "13 April 2001 ( 2001-04-13 ) (United Kingdom and United States)",
+      "10 October 2001 ( 2001-10-10 ) (France)"
+    ],
+    "Running time": "97 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States",
+      "France"
+    ],
+    "Language": "English",
+    "Budget": "$25 million",
+    "Box office": "$281.9 million"
+  },
+  "The Bunker": {
+    "title": "The Bunker",
+    "Directed by": "Rob Green",
+    "Produced by": "Daniel Figuero",
+    "Written by": "Clive Dawson",
+    "Starring": "Jason Flemyng Andrew Tiernan Christopher Fairbank",
+    "Music by": "Russell Currie",
+    "Cinematography": "John Pardue",
+    "Edited by": "Richard Milward",
+    "Production company": "Millennium Pictures",
+    "Distributed by": "High Point Film and Television",
+    "Release date": [
+      "14 September 2001 ( 2001-09-14 ) (TIFF)",
+      "27 September 2002 ( 2002-09-27 ) (United Kingdom)"
+    ],
+    "Running time": "95 minutes",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Captain Corelli's Mandolin": {
+    "title": "Captain Corelli's Mandolin",
+    "Directed by": "John Madden",
+    "Produced by": "Tim Bevan Eric Fellner Mark Huffam Kevin Loader",
+    "Screenplay by": "Shawn Slovo",
+    "Based on": "Captain Corelli's Mandolin by Louis de Bernières",
+    "Starring": [
+      "Nicolas Cage",
+      "Penélope Cruz",
+      "John Hurt",
+      "Christian Bale",
+      "David Morrissey",
+      "Irene Papas"
+    ],
+    "Music by": "Stephen Warbeck",
+    "Cinematography": "John Toll",
+    "Edited by": "Mick Audsley",
+    "Production companies": "StudioCanal Working Title Films",
+    "Distributed by": "United States and United Kingdom Miramax Films (through Buena Vista International in the United Kingdom) International Universal Pictures",
+    "Release date": [
+      "4 May 2001 ( 2001-05-04 ) (UK)",
+      "20 June 2001 ( 2001-06-20 ) (France)",
+      "17 August 2001 ( 2001-08-17 ) (US)"
+    ],
+    "Running time": "129 minutes [ dead link ]",
+    "Countries": "France United Kingdom United States",
+    "Languages": "English Greek German Italian",
+    "Budget": "$57 million",
+    "Box office": "$62,112,895"
+  },
+  "The Cat's Meow": {
+    "title": "The Cat's Meow",
+    "Directed by": "Peter Bogdanovich",
+    "Produced by": "Julie Baines Kim Bieber Carol Lewis Dieter Meyer",
+    "Screenplay by": "Steven Peros",
+    "Based on": "The Cat's Meow by Steven Peros",
+    "Starring": [
+      "Kirsten Dunst",
+      "Edward Herrmann",
+      "Eddie Izzard",
+      "Cary Elwes",
+      "Joanna Lumley",
+      "Jennifer Tilly"
+    ],
+    "Music by": "Ian Whitcomb",
+    "Cinematography": "Bruno Delbonnel",
+    "Edited by": "Edward G. Norris",
+    "Production companies": "Dan Films CP Medien",
+    "Distributed by": "Swipe Films (UK) Lionsgate",
+    "Release date": [
+      "August 3, 2001 ( 2001-08-03 ) ( LIFF )",
+      "April 12, 2002 ( 2002-04-12 ) (U.S.)",
+      "June 4, 2004 ( 2004-06-04 ) (U.K.)"
+    ],
+    "Running time": "114 minutes",
+    "Countries": "United States Germany United Kingdom",
+    "Language": "English",
+    "Budget": "$7 million",
+    "Box office": "$3.7 million"
+  },
+  "Charlotte Gray": {
+    "title": "Charlotte Gray",
+    "Directed by": "Gillian Armstrong",
+    "Produced by": "Sarah Curtis Douglas Rae",
+    "Screenplay by": "Jeremy Brock",
+    "Based on": "Charlotte Gray by Sebastian Faulks",
+    "Starring": "Cate Blanchett James Fleet Abigail Cruttenden Rupert Penry-Jones Billy Crudup Michael Gambon",
+    "Music by": "Stephen Warbeck",
+    "Cinematography": "Dion Beebe",
+    "Edited by": "Nicholas Beauman",
+    "Production companies": "FilmFour Productions Senator Film Working Title Films",
+    "Distributed by": "FilmFour Distribution (United Kingdom) Senator Film (Germany)",
+    "Release date": [
+      "28 December 2001 ( 2001-12-28 ) (United States)",
+      "28 December 2001 ( 2001-12-28 ) (Canada)",
+      "22 February 2002 ( 2002-02-22 ) (United Kingdom)"
+    ],
+    "Running time": "121 minutes",
+    "Countries": "United Kingdom Australia Germany",
+    "Language": "English",
+    "Budget": "£14 million",
+    "Box office": "£2,863,482"
+  },
+  "Christmas Carol: The Movie": {
+    "title": "Christmas Carol: The Movie",
+    "Directed by": "Jimmy T. Murakami",
+    "Produced by": "Iain Harvey",
+    "Written by": [
+      "Robert Llewellyn",
+      "Piet Kroon"
+    ],
+    "Based on": "A Christmas Carol by Charles Dickens",
+    "Starring": [
+      "Simon Callow",
+      "Kate Winslet",
+      "Nicolas Cage",
+      "Jane Horrocks",
+      "Rhys Ifans",
+      "Michael Gambon",
+      "Juliet Stevenson"
+    ],
+    "Music by": "Julian Nott",
+    "Edited by": "Taylor Grant",
+    "Production companies": [
+      "Pathé",
+      "Illuminated Film Company",
+      "FilmFour",
+      "Winchester Films",
+      "UK Film Council"
+    ],
+    "Distributed by": "Pathé Distribution",
+    "Release date": [
+      "15 September 2001 ( 2001-09-15 ) ( Toronto International Film Festival )",
+      "7 December 2001 ( 2001-12-07 ) (United Kingdom )"
+    ],
+    "Running time": "81 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Budget": "£6,182,526"
+  },
+  "Cradle of Fear": {
+    "title": "Cradle of Fear",
+    "Directed by": "Alex Chandon",
+    "Produced by": "Ciska Faulkner Eddie Kane Paul Luke Nico Rilla Andy Skivington",
+    "Written by": "Alex Chandon",
+    "Starring": "Dani Filth Emily Booth Eileen Daly",
+    "Music by": "Cradle of Filth",
+    "Cinematography": "Sebastiani Bontempi",
+    "Edited by": "Alex Chandon",
+    "Production company": "Pragmatic Pictures Ltd.",
+    "Distributed by": "Film 2000",
+    "Release date": [
+      "18 December 2001 ( 2001-12-18 ) (UK)"
+    ],
+    "Running time": "120 minutes",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Crush": {
+    "title": "Crush",
+    "Directed by": "John McKay",
+    "Produced by": "Lee Thomas",
+    "Written by": "John McKay",
+    "Starring": "Andie MacDowell Imelda Staunton Anna Chancellor Kenny Doughty Bill Paterson",
+    "Music by": "Kevin Sargent",
+    "Cinematography": "Henry Braham",
+    "Edited by": "Anne Sopel",
+    "Distributed by": "Senator Film (Germany) FilmFour Distributors (United Kingdom)",
+    "Release date": "19 August 2001 ( 2001-08-19 ) (Edinburgh Film Festival) 7 June 2002 ( 2002-06-07 ) (United Kingdom) 5 September 2002 ( 2002-09-05 ) (Germany)",
+    "Running time": "112 minutes",
+    "Countries": "Germany United Kingdom",
+    "Languages": "English French"
+  },
+  "The Emperor's New Clothes": {
+    "title": "The Emperor's New Clothes",
+    "Directed by": "Alan Taylor",
+    "Produced by": "Uberto Pasolini Polly Leys James Wilson Marco Valerio Pugini",
+    "Screenplay by": "Kevin Molony Alan Taylor Herbie Wave",
+    "Based on": "The Death of Napoleon by Simon Leys",
+    "Starring": "Ian Holm",
+    "Music by": "Rachel Portman",
+    "Cinematography": "Alessio Gelsini Torresi",
+    "Edited by": "Masahiro Hirakubo",
+    "Production companies": "Redwave Films Rai Cinema Senator Film Panorama Films Mikado Film FilmFour",
+    "Distributed by": "FilmFour Distributors",
+    "Release date": [
+      "14 June 2002 ( 2002-06-14 ) (U.S.)",
+      "7 November 2002 ( 2002-11-07 ) (Australia)",
+      "30 January 2004 ( 2004-01-30 ) (UK)"
+    ],
+    "Running time": "107 minutes",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Enigma": {
+    "title": "Enigma",
+    "Directed by": "Michael Apted",
+    "Produced by": [
+      "Mick Jagger",
+      "Lorne Michaels"
+    ],
+    "Screenplay by": "Tom Stoppard",
+    "Based on": "Enigma by Robert Harris",
+    "Starring": [
+      "Dougray Scott",
+      "Kate Winslet",
+      "Jeremy Northam",
+      "Saffron Burrows",
+      "Tom Hollander"
+    ],
+    "Music by": "John Barry",
+    "Cinematography": "Seamus McGarvey",
+    "Edited by": "Rick Shaine",
+    "Production companies": [
+      "Jagged Films",
+      "Broadway Video"
+    ],
+    "Distributed by": [
+      "Buena Vista International (UK)",
+      "Manhattan Pictures (US)"
+    ],
+    "Release date": [
+      "22 January 2001 ( 2001-01-22 ) ( Sundance )",
+      "18 August 2001 ( 2001-08-18 ) ( Edinburgh )",
+      "28 September 2001 ( 2001-09-28 ) (UK)",
+      "19 April 2002 ( 2002-04-19 ) (US)"
+    ],
+    "Running time": "119 min.",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Box office": "$15.7 million"
+  },
+  "The Fourth Angel": {
+    "title": "The Fourth Angel",
+    "Directed by": "John Irvin",
+    "Produced by": "Allan Scott Peter R. Simpson",
+    "Screenplay by": "Allan Scott",
+    "Based on": "The Fourth Angel by Robin Neillands",
+    "Starring": "Jeremy Irons Jason Priestley Forest Whitaker Charlotte Rampling Lois Maxwell",
+    "Music by": "Paul Zaza",
+    "Cinematography": "Mike Molloy",
+    "Edited by": "Nick Rotundo",
+    "Production companies": "New Legend Media Norstar Entertainment Rafford Films Sky Pictures",
+    "Distributed by": "Global Cinema Group",
+    "Release date": "2001",
+    "Running time": "96 minutes",
+    "Countries": "United Kingdom Canada",
+    "Languages": "English French Serbo-Croatian"
+  },
+  "Chica de Río": {
+    "title": "Chica de Río",
+    "Directed by": "Christopher Monger",
+    "Produced by": "Muir Sutherland Andrés Vicente Gómez",
+    "Written by": "Christopher Monger Julian Ibañez Francisco Lara",
+    "Starring": "Hugh Laurie Vanessa Nunes Santiago Segura Patrick Barlow",
+    "Cinematography": "José Luis Alcaine",
+    "Edited by": "Nicholas Wentworth",
+    "Distributed by": "United Kingdom: Redbus Film Distribution Spain: Lolafilms",
+    "Release date": [
+      "11 April 2003 ( 2003-04-11 ) (UK)",
+      "13 July 2001 ( 2001-07-13 ) (Spain)"
+    ],
+    "Running time": "102 min.",
+    "Countries": "Brazil United Kingdom",
+    "Language": "English"
+  },
+  "Gosford Park": {
+    "title": "Gosford Park",
+    "Directed by": "Robert Altman",
+    "Produced by": "Robert Altman Bob Balaban David Levy",
+    "Written by": "Julian Fellowes",
+    "Starring": "Eileen Atkins Bob Balaban Alan Bates Charles Dance Stephen Fry Michael Gambon Richard E. Grant Derek Jacobi Kelly Macdonald Helen Mirren Jeremy Northam Clive Owen Ryan Phillippe Maggie Smith Kristin Scott Thomas Emily Watson",
+    "Music by": "Patrick Doyle",
+    "Cinematography": "Andrew Dunn",
+    "Edited by": "Tim Squyres",
+    "Production companies": "USA Films Capitol Films The Film Council Sandcastle 5 Productions Chicagofilms Medusa Film",
+    "Distributed by": "Entertainment Film Distributors (United Kingdom) USA Films (United States)",
+    "Release date": [
+      "7 November 2001 ( 2001-11-07 ) ( London )",
+      "1 February 2002 ( 2002-02-01 ) (United Kingdom)"
+    ],
+    "Running time": "137 minutes",
+    "Countries": "United Kingdom United States Italy",
+    "Language": "English",
+    "Budget": "$19.8 million",
+    "Box office": "$87.8 million"
+  },
+  "Harry Potter and the Philosopher's Stone": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "Directed by": "Chris Columbus",
+    "Produced by": "David Heyman",
+    "Screenplay by": "Steve Kloves",
+    "Based on": "Harry Potter and the Philosopher's Stone by J. K. Rowling",
+    "Starring": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "John Cleese",
+      "Robbie Coltrane",
+      "Warwick Davis",
+      "Richard Griffiths",
+      "Richard Harris",
+      "Ian Hart",
+      "John Hurt",
+      "Alan Rickman",
+      "Fiona Shaw",
+      "Maggie Smith",
+      "Julie Walters"
+    ],
+    "Music by": "John Williams",
+    "Cinematography": "John Seale",
+    "Edited by": "Richard Francis-Bruce",
+    "Production companies": [
+      "Warner Bros. Pictures",
+      "Heyday Films",
+      "1492 Pictures"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "4 November 2001 ( 2001-11-04 ) ( Odeon Leicester Square )",
+      "10 November 2001 ( 2001-11-10 ) (United Kingdom)",
+      "16 November 2001 ( 2001-11-16 ) (United States)"
+    ],
+    "Running time": "152 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$125 million",
+    "Box office": "$1.007 billion"
+  },
+  "High Heels and Low Lifes": {
+    "title": "High Heels and Low Lifes",
+    "Directed by": "Mel Smith",
+    "Produced by": "Uri Fruchtmann Barnaby Thompson",
+    "Screenplay by": "Kim Fuller",
+    "Story by": "Kim Fuller Georgia Pritchett",
+    "Starring": "Minnie Driver Mary McCormack Kevin McNally Michael Gambon Darren Boyd",
+    "Music by": "Charlie Mole",
+    "Cinematography": "Steven Chivers",
+    "Edited by": "Chris Blunden",
+    "Production companies": "Touchstone Pictures Fragile Films",
+    "Distributed by": "Buena Vista Pictures",
+    "Release date": [
+      "16 July 2001 ( 2001-07-16 )"
+    ],
+    "Running time": "86 minutes",
+    "Countries": "United Kingdom United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$228,194"
+  },
+  "The Hole": {
+    "title": "The Hole",
+    "Directed by": "Nick Hamm",
+    "Produced by": "Jeremy Bolt Lisa Bryer Pippa Cross",
+    "Written by": "Ben Court Caroline Ip",
+    "Based on": "After the Hole by Guy Burt",
+    "Starring": "Thora Birch Desmond Harrington Daniel Brocklebank Laurence Fox Keira Knightley Embeth Davidtz",
+    "Music by": "Clint Mansell",
+    "Cinematography": "Denis Crossan",
+    "Edited by": "Niven Howie",
+    "Production company": "Canal +",
+    "Distributed by": "Pathé",
+    "Release date": "20 April 2001",
+    "Running time": "102 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Box office": "$7.8 million"
+  },
+  "Hotel": {
+    "title": "Hotel",
+    "Directed by": "Mike Figgis",
+    "Produced by": [
+      "Andrea Calderwood",
+      "Mike Figgis",
+      "Annie Stewart",
+      "Lesley Stewart",
+      "Ernst Etchie Stroh"
+    ],
+    "Written by": [
+      "Mike Figgis",
+      "Heathcote Williams"
+    ],
+    "Starring": [
+      "Saffron Burrows",
+      "Salma Hayek",
+      "Lucy Liu",
+      "Burt Reynolds",
+      "Julian Sands",
+      "David Schwimmer"
+    ],
+    "Music by": [
+      "Mike Figgis",
+      "Anthony Marinelli"
+    ],
+    "Cinematography": "Patrick Alexander Stewart",
+    "Production companies": [
+      "Moonstone Entertainment",
+      "Channel 4"
+    ],
+    "Distributed by": [
+      "Metro-Goldwyn-Mayer",
+      "United Artists"
+    ],
+    "Release date": "12 September 2001 ( 2001-09-12 )",
+    "Running time": "114 minutes",
+    "Countries": [
+      "Italy",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Box office": "$29,813"
+  },
+  "Inferno": {
+    "title": "Inferno",
+    "Written by": "Sharat Sardana",
+    "Starring": "Emily Booth Sanjeev Bhaskar Nitin Ganatra",
+    "Production company": "National Film and Television School",
+    "Running time": "28 minutes",
+    "Country": "UK",
+    "Language": "English"
+  },
+  "Iris": {
+    "title": "Iris",
+    "Directed by": "Richard Eyre",
+    "Produced by": [
+      "Robert Fox",
+      "Scott Rudin"
+    ],
+    "Screenplay by": [
+      "Richard Eyre",
+      "Charles Wood"
+    ],
+    "Based on": "Elegy for Iris by John Bayley",
+    "Starring": [
+      "Judi Dench",
+      "Jim Broadbent",
+      "Kate Winslet",
+      "Hugh Bonneville"
+    ],
+    "Music by": "James Horner",
+    "Cinematography": "Roger Pratt",
+    "Edited by": "Martin Walsh",
+    "Production companies": [
+      "BBC Films",
+      "Fox Iris Productions",
+      "Intermedia",
+      "Mirage Enterprises"
+    ],
+    "Distributed by": [
+      "Buena Vista International (UK)",
+      "Miramax Films (US)"
+    ],
+    "Release date": [
+      "14 December 2001 ( 2001-12-14 ) (Premiere)",
+      "18 January 2002 ( 2002-01-18 ) (United Kingdom)",
+      "29 March 2002 ( 2002-03-29 ) (United States)"
+    ],
+    "Running time": "90 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$5.5 million",
+    "Box office": "$16.2 million"
+  },
+  "Jump Tomorrow": {
+    "title": "Jump Tomorrow"
+  },
+  "Last Orders": {
+    "title": "Last Orders",
+    "Directed by": "Fred Schepisi",
+    "Produced by": "Elisabeth Robinson Fred Schepisi",
+    "Written by": "Fred Schepisi",
+    "Based on": "Last Orders by Graham Swift",
+    "Starring": "Michael Caine Tom Courtenay David Hemmings Bob Hoskins Helen Mirren Ray Winstone",
+    "Music by": "Paul Grabowsky",
+    "Cinematography": "Brian Tufano",
+    "Edited by": "Kate Williams",
+    "Production company": "Future Films",
+    "Distributed by": "Metrodome Distribution (United Kingdom) Columbia TriStar Film Distributors International (Germany)",
+    "Release date": [
+      "September 2001 ( 2001-09 ) ( Toronto )",
+      "7 December 2001 ( 2001-12-07 ) (US)",
+      "11 January 2002 ( 2002-01-11 ) (UK)"
+    ],
+    "Running time": "109 minutes",
+    "Countries": "United Kingdom Germany",
+    "Language": "English",
+    "Box office": "$6.8 million"
+  },
+  "Late Night Shopping": {
+    "title": "Late Night Shopping",
+    "Directed by": "Saul Metzstein",
+    "Produced by": "Angus Lamont",
+    "Written by": "Jack Lothian",
+    "Starring": "Luke de Woolfson James Lance Kate Ashfield Enzo Cilenti",
+    "Music by": "Alex Heffes",
+    "Edited by": "Justine Wright",
+    "Production companies": "SMG Productions Scottish Screen Glasgow Film Office Film4 Productions",
+    "Release date": [
+      "2001 ( 2001 )"
+    ],
+    "Running time": "91 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Box office": "$152,000 (United Kingdom)"
+  },
+  "Lover's Prayer": {
+    "title": "Lover's Prayer"
+  },
+  "The Luzhin Defence": {
+    "title": "The Luzhin Defence",
+    "Directed by": "Marleen Gorris",
+    "Produced by": "Caroline Wood",
+    "Screenplay by": "Peter Berry",
+    "Based on": "The Defense by Vladimir Nabokov",
+    "Starring": "John Turturro Emily Watson Geraldine James Stuart Wilson Christopher Thompson Kelly Hunter",
+    "Music by": "Alexandre Desplat Layla Stanson",
+    "Cinematography": "Bernard Lutic",
+    "Production companies": "France 2 Cinema Clear Blue Sky Productions",
+    "Distributed by": "Entertainment Film Distributors (United Kingdom) UGC Fox Distribution (France)",
+    "Release date": [
+      "2000 ( 2000 )"
+    ],
+    "Running time": "109 minutes",
+    "Countries": "United Kingdom France",
+    "Language": "English",
+    "Box office": "$1,864,747"
+  },
+  "The Martins": {
+    "title": "The Martins",
+    "Produced by": "Bruce Davey",
+    "Written by": "Tony Grounds",
+    "Starring": "Lee Evans Kathy Burke Eric Byrne Linda Bassett Mark Strong Paddy Considine",
+    "Edited by": "Robin Sales",
+    "Distributed by": "Tiger Aspect Productions",
+    "Release date": [
+      "14 September 2001 ( 2001-09-14 ) (United Kingdom)"
+    ],
+    "Running time": "87 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Budget": "£855,874 (UK)"
+  },
+  "Me Without You": {
+    "title": "Me Without You",
+    "Directed by": "Sandra Goldbacher",
+    "Produced by": "Steve Christian Finola Dwyer Jonathan Olsberg",
+    "Written by": "Sandra Goldbacher Laurence Coriat",
+    "Starring": [
+      "Anna Friel",
+      "Michelle Williams",
+      "Kyle MacLachlan",
+      "Oliver Milburn"
+    ],
+    "Music by": "Adrian Johnston",
+    "Cinematography": "Denis Crossan",
+    "Edited by": "Michael Ellis",
+    "Production companies": "Capitol Films Fireworks Pictures",
+    "Distributed by": "Momentum Pictures",
+    "Release date": [
+      "23 November 2001 ( 2001-11-23 )"
+    ],
+    "Running time": "107 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Box office": "$155,000 (United Kingdom)"
+  },
+  "Mean Machine": {
+    "title": "Mean Machine",
+    "Directed by": "Barry Skolnick",
+    "Produced by": "Matthew Vaughn",
+    "Screenplay by": "Tracy Keenan Wynn Charlie Fletcher Chris Baker Andrew Day",
+    "Based on": "The Longest Yard by Albert S. Ruddy",
+    "Starring": "Vinnie Jones David Kelly David Hemmings Vas Blackwood Jason Flemyng Danny Dyer Jason Statham",
+    "Music by": "John Murphy",
+    "Cinematography": "Alex Barber",
+    "Edited by": "Eddie Hamilton Dayn Williams",
+    "Production companies": "SKA Films Ruddy/Morgan Productions Brad Grey Pictures",
+    "Distributed by": "Paramount Pictures (through United International Pictures )",
+    "Release date": [
+      "26 December 2001 ( 2001-12-26 )"
+    ],
+    "Running time": "99 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Budget": "£2.5 million",
+    "Box office": "$7.3 million"
+  },
+  "Mike Bassett: England Manager": {
+    "title": "Mike Bassett: England Manager",
+    "Directed by": "Steve Barron",
+    "Produced by": "Steve Barron Neil Peplow",
+    "Written by": "John R. Smith Rob Sprackling",
+    "Starring": "Ricky Tomlinson Amanda Redman Bradley Walsh Dean Lennox Kelly Geoff Bell",
+    "Edited by": "Colin Green",
+    "Production companies": "Artists Independent Productions Film Council Hallmark Entertainment",
+    "Distributed by": "Entertainment Film Distributors",
+    "Release date": [
+      "28 September 2001 ( 2001-09-28 )"
+    ],
+    "Running time": "89 minutes",
+    "Country": "United Kingdom",
+    "Language": "English",
+    "Box office": "£3.6 million"
+  },
+  "My Kingdom (film)": {
+    "title": "My Kingdom (film)"
+  },
+  "Phoenix Blue": {
+    "title": "Phoenix Blue"
+  },
+  "Strictly Sinatra": {
+    "title": "Strictly Sinatra",
+    "Directed by": "Peter Capaldi",
+    "Produced by": "Ruth Kenley-Letts",
+    "Written by": "Peter Capaldi",
+    "Starring": "Ian Hart Kelly Macdonald Brian Cox",
+    "Music by": "Stanislas Syrewicz",
+    "Cinematography": "Stephen Blackman",
+    "Edited by": "Martin Walsh",
+    "Production company": "DNA Films",
+    "Distributed by": "Universal Pictures",
+    "Release date": "2001",
+    "Running time": "97 min (US)",
+    "Country": "United Kingdom",
+    "Language": "English"
+  },
+  "Triumph of Love": {
+    "title": "Triumph of Love",
+    "Produced by": "Bernardo Bertolucci",
+    "Screenplay by": [
+      "Clare Peploe",
+      "Marilyn Goldin",
+      "Bernardo Bertolucci"
+    ],
+    "Based on": "The Triumph of Love by Marivaux",
+    "Starring": [
+      "Mira Sorvino",
+      "Rachael Stirling",
+      "Ben Kingsley",
+      "Fiona Shaw"
+    ],
+    "Distributed by": "Paramount Classics",
+    "Release date": [
+      "September 6, 2001 ( 2001-09-06 ) (Italy)"
+    ],
+    "Running time": "112 min",
+    "Language": "English and French"
+  }
+}
